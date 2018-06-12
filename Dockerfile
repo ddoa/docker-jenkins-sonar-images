@@ -127,5 +127,5 @@ EXPOSE ${agent_port}
 
 USER ${user}
 
-# to start jenkins: run /sbin/tini -- /usr/local/bin/jenkins.sh
-# to start sonar: run /opt/sonarqube/bin/run.sh
+# to start jenkins: run: jenkins.sh &
+# to start sonar: Go to /opt/sonarqube/bin and run: run.sh &
