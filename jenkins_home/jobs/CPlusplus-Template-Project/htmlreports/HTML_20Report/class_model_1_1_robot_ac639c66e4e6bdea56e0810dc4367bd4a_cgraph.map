@@ -1,0 +1,4 @@
+<map id="Model::Robot::getFrontRight" name="Model::Robot::getFrontRight">
+<area shape="rect" id="node2" href="$class_utils_1_1_shape2_d_utils.html#a0a6d71335cddbfb02f15603a9594f3e7" title="Utils::Shape2DUtils\l::getAngle" alt="" coords="240,5,379,47"/>
+<area shape="rect" id="node3" href="$namespace_utils.html#a96137dcc99a51f57ebc9aa4a597ee1ea" title="Utils::GetAngle" alt="" coords="427,13,537,39"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Model::Robot::calculateRoute" name="Model::Robot::calculateRoute">
+<area shape="rect" id="node2" href="$class_application_1_1_logger.html#a5440358021658e1f42b19c0fbddd6c41" title="Application::Logger\l::setDisable" alt="" coords="307,5,440,47"/>
+<area shape="rect" id="node3" href="$class_base_1_1_observer.html#a805cc1ddc6526d692af81d76ae29d802" title="Base::Observer::handleNotificationsFor" alt="" coords="248,71,499,98"/>
+<area shape="rect" id="node5" href="$class_path_algorithm_1_1_a_star.html#a9112cf1a7a2e991046d88a1f5cba8925" title="PathAlgorithm::AStar\l::search" alt="" coords="301,123,446,164"/>
+<area shape="rect" id="node6" href="$class_base_1_1_observer.html#a0646f881f6716ab7be41ecefa74b5071" title="Base::Observer::stopHandling\lNotificationsFor" alt="" coords="275,188,472,229"/>
+<area shape="rect" id="node4" href="$class_base_1_1_notifier.html#a5c4e89f48f9688c71ffec225717dd79e" title="Base::Notifier::addObserver" alt="" coords="558,71,742,98"/>
+<area shape="rect" id="node7" href="$class_base_1_1_notifier.html#abd13a6f822088d759f4464dbe2e6bb88" title="Base::Notifier::removeObserver" alt="" coords="547,195,753,222"/>
+</map>

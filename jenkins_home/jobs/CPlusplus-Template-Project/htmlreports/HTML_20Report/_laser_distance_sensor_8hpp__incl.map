@@ -1,0 +1,9 @@
+<map id="src/LaserDistanceSensor.hpp" name="src/LaserDistanceSensor.hpp">
+<area shape="rect" id="node2" href="$_config_8hpp.html" title="Config.hpp" alt="" coords="152,379,237,405"/>
+<area shape="rect" id="node3" href="$_abstract_sensor_8hpp.html" title="AbstractSensor.hpp" alt="" coords="209,80,346,107"/>
+<area shape="rect" id="node4" href="$_thread_8hpp.html" title="Thread.hpp" alt="" coords="677,155,763,181"/>
+<area shape="rect" id="node5" href="$_model_object_8hpp.html" title="ModelObject.hpp" alt="" coords="384,155,504,181"/>
+<area shape="rect" id="node10" href="$_notifier_8hpp.html" title="Notifier.hpp" alt="" coords="274,229,363,256"/>
+<area shape="rect" id="node13" href="$_object_id_8hpp.html" title="ObjectId.hpp" alt="" coords="439,229,535,256"/>
+<area shape="rect" id="node12" href="$_observer_8hpp.html" title="Observer.hpp" alt="" coords="145,304,245,331"/>
+</map>

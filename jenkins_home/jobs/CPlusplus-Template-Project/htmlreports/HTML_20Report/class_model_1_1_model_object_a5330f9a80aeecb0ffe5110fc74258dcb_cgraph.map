@@ -1,0 +1,7 @@
+<map id="Model::ModelObject::toPtr" name="Model::ModelObject::toPtr">
+<area shape="rect" id="node2" href="$class_model_1_1_model_object.html#a5e08a08dd0a9dbdb62566e5595ff6ee6" title="Model::ModelObject\l::asString" alt="" coords="192,5,331,47"/>
+<area shape="rect" id="node6" href="$class_model_1_1_model_object.html#a3a5304d058f7b6b334d32b7f09af724b" title="Model::ModelObject\l::asDebugString" alt="" coords="192,71,331,112"/>
+<area shape="rect" id="node3" href="$namespace_utils.html#ac11b6f353edfdb84d1a9790379fe84b3" title="Utils::typeinfoFor" alt="" coords="387,15,509,42"/>
+<area shape="rect" id="node5" href="$class_model_1_1_model_object.html#a872607cec315596a384cc052afea0add" title="Model::ModelObject\l::getObjectId" alt="" coords="379,68,517,109"/>
+<area shape="rect" id="node4" href="$namespace_utils.html#aef99b198a8c5ac81903a56f6a375ae69" title="Utils::demangleTypeInfo" alt="" coords="565,15,729,42"/>
+</map>

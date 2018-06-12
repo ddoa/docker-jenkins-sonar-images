@@ -1,0 +1,5 @@
+<map id="Model::ModelObject::asDebugString" name="Model::ModelObject::asDebugString">
+<area shape="rect" id="node2" href="$class_model_1_1_model_object.html#a5330f9a80aeecb0ffe5110fc74258dcb" title="Model::ModelObject\l::toPtr" alt="" coords="215,5,354,47"/>
+<area shape="rect" id="node3" href="$class_model_1_1_wall.html#af10267021d5e4f64bb3c47f762b5f721" title="Model::Wall::asDebugString" alt="" coords="192,71,377,98"/>
+<area shape="rect" id="node4" href="$class_model_1_1_wall.html#ab17b6314973b1fb5761e8627ca21ff33" title="Model::Wall::getPoint2" alt="" coords="425,71,580,98"/>
+</map>

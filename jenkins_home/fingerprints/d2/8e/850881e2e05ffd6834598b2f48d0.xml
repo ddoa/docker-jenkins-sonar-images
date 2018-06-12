@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2018-06-11 21:27:33.574 UTC</timestamp>
+  <md5sum>d28e850881e2e05ffd6834598b2f48d0</md5sum>
+  <fileName>Credential id=70b858fb-9bb3-4ce2-af5b-263635daea76 name=rojenkinsusr</fileName>
+  <usages>
+    <entry>
+      <string>CPlusplus-Template-Project</string>
+      <ranges>1-9</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

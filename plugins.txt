@@ -1,0 +1,16 @@
+scm-api:2.2.7
+git-client:2.7.2
+stash-pullrequest-builder:1.7.0
+github:1.29.0
+cpptest:0.14
+cppcheck:1.21
+maven-plugin:3.1.2
+xunit:2.0.0
+sonar:2.7.1
+git-server:1.7
+junit:1.24
+doxygen:0.18
+gradle:1.28
+git:3.9.0
+greenballs:1.15
+htmlpublisher:1.16

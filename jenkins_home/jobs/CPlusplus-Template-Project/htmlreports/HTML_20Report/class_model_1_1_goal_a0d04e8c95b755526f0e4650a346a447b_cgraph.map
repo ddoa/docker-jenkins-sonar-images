@@ -1,0 +1,13 @@
+<map id="Model::Goal::asString" name="Model::Goal::asString">
+<area shape="rect" id="node2" href="$class_model_1_1_way_point.html#a9d11de0dbb748ebface72b58d15b9386" title="Model::WayPoint::getName" alt="" coords="207,81,390,108"/>
+<area shape="rect" id="node7" href="$class_model_1_1_way_point.html#ae5a234a105f811c284271abff946cc16" title="Model::WayPoint::getPosition" alt="" coords="201,233,396,260"/>
+<area shape="rect" id="node3" href="$class_model_1_1_way_point.html#a436222b246b29ca5af7a6b56ca983435" title="Model::WayPoint::setName" alt="" coords="450,5,633,32"/>
+<area shape="rect" id="node5" href="$class_model_1_1_way_point.html#afffa2017c79e36df333b4b3fc7f948ee" title="Model::WayPoint::getSize" alt="" coords="454,56,629,83"/>
+<area shape="rect" id="node6" href="$class_model_1_1_way_point.html#ab21868d4ea0aaca73130b8195482a711" title="Model::WayPoint::setSize" alt="" coords="454,107,629,133"/>
+<area shape="rect" id="node4" href="$class_base_1_1_notifier.html#a9a3df81524d8db68dd64f9a26575c6b4" title="Base::Notifier::notifyObservers" alt="" coords="687,107,889,133"/>
+<area shape="rect" id="node8" href="$class_model_1_1_way_point.html#a174d63b3a9b11d03ec31ed3841280814" title="Model::WayPoint::setPosition" alt="" coords="444,157,639,184"/>
+<area shape="rect" id="node9" href="$class_model_1_1_way_point.html#a4e27e0bf46f43fca76b9144cf36d09e1" title="Model::WayPoint::getRegion" alt="" coords="693,233,883,260"/>
+<area shape="rect" id="node10" href="$class_model_1_1_way_point.html#a2ef35d2797e4419f4f2fa872776e3ba8" title="Model::WayPoint::intersects" alt="" coords="448,259,635,285"/>
+<area shape="rect" id="node11" href="$class_model_1_1_way_point.html#a289ac533ef95259472b9492512848da3" title="Model::WayPoint::asString" alt="" coords="452,309,631,336"/>
+<area shape="rect" id="node12" href="$class_model_1_1_way_point.html#a4907b68b8999aaa687e9d27ba1459238" title="Model::WayPoint::asDebug\lString" alt="" coords="450,361,633,402"/>
+</map>

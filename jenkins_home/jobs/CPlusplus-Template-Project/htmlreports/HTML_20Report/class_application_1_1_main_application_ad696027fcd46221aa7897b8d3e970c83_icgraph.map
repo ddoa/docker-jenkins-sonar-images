@@ -1,0 +1,12 @@
+<map id="Application::MainApplication::getArg" name="Application::MainApplication::getArg">
+<area shape="rect" id="node2" href="$class_application_1_1_main_application.html#ac9714c4b1debf0d532e2b30224833b53" title="Application::MainApplication\l::OnInit" alt="" coords="259,5,446,47"/>
+<area shape="rect" id="node3" href="$class_application_1_1_main_frame_window.html#acc4b68465595b19ab6d23762b7ce1907" title="Application::MainFrameWindow\l::initialiseButtonPanel" alt="" coords="249,71,456,112"/>
+<area shape="rect" id="node9" href="$class_model_1_1_robot.html#a0178459eef83c12c50056717b3c5b8a8" title="Model::Robot::startCommunicating" alt="" coords="240,137,465,163"/>
+<area shape="rect" id="node10" href="$class_model_1_1_robot.html#a7aabb3039cde09a96e07d900a5e19972" title="Model::Robot::stopCommunicating" alt="" coords="241,187,465,214"/>
+<area shape="rect" id="node4" href="$class_application_1_1_main_frame_window.html#a9d9bf15eb75cbce36bca4e22ba144161" title="Application::MainFrameWindow\l::initialiseRhsPanel" alt="" coords="513,71,720,112"/>
+<area shape="rect" id="node5" href="$class_application_1_1_main_frame_window.html#a88ea2a7e70bcd1a650c3834883d3deef" title="Application::MainFrameWindow\l::initialiseSplitterWindow" alt="" coords="768,71,975,112"/>
+<area shape="rect" id="node6" href="$class_application_1_1_main_frame_window.html#aa9064ca4429720b231234fba743c4b0f" title="Application::MainFrameWindow\l::initialiseClientPanel" alt="" coords="1023,71,1229,112"/>
+<area shape="rect" id="node7" href="$class_application_1_1_main_frame_window.html#afbe4226dcd70f22c2ae32062881ceca6" title="Application::MainFrameWindow\l::initialise" alt="" coords="1277,71,1484,112"/>
+<area shape="rect" id="node8" href="$class_application_1_1_main_frame_window.html#a6cd8f5a881e4589dc8afa01d5f7ed4ba" title="Application::MainFrameWindow\l::MainFrameWindow" alt="" coords="1532,71,1739,112"/>
+<area shape="rect" id="node11" href="$class_model_1_1_robot.html#a38d95cd9941ac61090d33e1e1d9f67a0" title="Model::Robot::~Robot" alt="" coords="541,187,692,214"/>
+</map>

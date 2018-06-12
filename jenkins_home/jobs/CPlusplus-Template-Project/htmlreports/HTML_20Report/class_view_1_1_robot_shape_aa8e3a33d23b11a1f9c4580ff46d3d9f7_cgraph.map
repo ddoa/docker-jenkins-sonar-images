@@ -1,0 +1,8 @@
+<map id="View::RobotShape::handleNotification" name="View::RobotShape::handleNotification">
+<area shape="rect" id="node2" href="$class_view_1_1_robot_shape.html#a4b12a96d27b17153069e8864258f52df" title="View::RobotShape::setCentre" alt="" coords="231,70,427,97"/>
+<area shape="rect" id="node3" href="$class_view_1_1_robot_shape.html#a0523eb9091b6a646337daffd3a5109ef" title="View::RobotShape::getRobot" alt="" coords="482,13,674,39"/>
+<area shape="rect" id="node6" href="$class_view_1_1_robot_world_canvas.html#af24f07e5484dbba2edd563c826694098" title="View::RobotWorldCanvas\l::handleNotification" alt="" coords="242,124,415,165"/>
+<area shape="rect" id="node5" href="$class_view_1_1_rectangle_shape.html#a905817abb1294f0e83f1ecdb065cc994" title="View::RectangleShape\l::setCentre" alt="" coords="501,64,655,105"/>
+<area shape="rect" id="node4" href="$class_view_1_1_view_object.html#a3da9d193b02ec4e17c045280db2d944b" title="View::ViewObject::getModel\lObject" alt="" coords="729,5,916,47"/>
+<area shape="rect" id="node7" href="$class_view_1_1_robot_world_canvas.html#a19aa6f46000f7f7db267f6aec911f25f" title="View::RobotWorldCanvas\l::handleBackGroundNotification" alt="" coords="475,129,681,171"/>
+</map>

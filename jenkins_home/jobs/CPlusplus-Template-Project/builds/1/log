@@ -1,0 +1,23 @@
+Started by user [8mha:////4H6jHdEk/nvJZuHcQy1q06IUIDpihnkovZVdm5B3oc7qAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Building in workspace /var/jenkins_home/jobs/CPlusplus-Template-Project/workspace
+Cloning the remote Git repository
+Cloning repository ssh://git@94.124.143.192:7999/jk/robotworld.git
+ > git init /var/jenkins_home/jobs/CPlusplus-Template-Project/workspace # timeout=10
+Fetching upstream changes from ssh://git@94.124.143.192:7999/jk/robotworld.git
+ > git --version # timeout=10
+using GIT_SSH to set credentials 
+ > git fetch --tags --progress ssh://git@94.124.143.192:7999/jk/robotworld.git +refs/heads/*:refs/remotes/origin/*
+ > git config remote.origin.url ssh://git@94.124.143.192:7999/jk/robotworld.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url ssh://git@94.124.143.192:7999/jk/robotworld.git # timeout=10
+Fetching upstream changes from ssh://git@94.124.143.192:7999/jk/robotworld.git
+using GIT_SSH to set credentials 
+ > git fetch --tags --progress ssh://git@94.124.143.192:7999/jk/robotworld.git +refs/heads/*:refs/remotes/origin/*
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision 213ef84b007db5a75bbbceb5668ad9b1cbc01953 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 213ef84b007db5a75bbbceb5668ad9b1cbc01953
+Commit message: "Merge pull request #5 in JK/robotworld from bug/wrong_collision to master"
+First time build. Skipping changelog.
+Finished: SUCCESS

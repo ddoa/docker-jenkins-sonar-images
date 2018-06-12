@@ -1,0 +1,7 @@
+<map id="View::LineShape::asDebugString" name="View::LineShape::asDebugString">
+<area shape="rect" id="node2" href="$class_view_1_1_shape.html#a5433d7d6f0c422b59891de069a6b9b1e" title="View::Shape::asDebugString" alt="" coords="233,5,424,32"/>
+<area shape="rect" id="node4" href="$class_utils_1_1_shape2_d_utils.html#a47efad1075c8fabb7af1146f17fadaa2" title="Utils::Shape2DUtils\l::asString" alt="" coords="259,57,398,98"/>
+<area shape="rect" id="node5" href="$class_view_1_1_line_shape.html#a01aabcefbac117c9cb0d3dd55c25f982" title="View::LineShape::getBegin" alt="" coords="239,123,418,149"/>
+<area shape="rect" id="node6" href="$class_view_1_1_line_shape.html#a05c46acd617e5bd9d2e32e02f8bda30c" title="View::LineShape::getEnd" alt="" coords="244,173,413,200"/>
+<area shape="rect" id="node3" href="$class_view_1_1_shape.html#a282b801714c40623152ab8ec0c2dbdbd" title="View::Shape::asString" alt="" coords="472,5,624,32"/>
+</map>

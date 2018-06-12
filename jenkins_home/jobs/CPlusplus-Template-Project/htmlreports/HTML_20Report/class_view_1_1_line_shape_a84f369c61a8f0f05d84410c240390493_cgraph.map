@@ -1,0 +1,12 @@
+<map id="View::LineShape::draw" name="View::LineShape::draw">
+<area shape="rect" id="node2" href="$class_view_1_1_shape.html#adfee2a06f80fddf55b5860f9e5240224" title="View::Shape::isSelected" alt="" coords="454,5,619,32"/>
+<area shape="rect" id="node3" href="$namespace_widgets.html#af92dace3ab6f9cbc0d9d288b8b9f7786" title="Widgets::WXSTRING" alt="" coords="461,56,612,83"/>
+<area shape="rect" id="node4" href="$class_view_1_1_line_shape.html#a2fe3effe9eff5bd00fe495e0f1c39606" title="View::LineShape::drawHead" alt="" coords="209,165,396,192"/>
+<area shape="rect" id="node5" href="$class_utils_1_1_shape2_d_utils.html#a0a6d71335cddbfb02f15603a9594f3e7" title="Utils::Shape2DUtils\l::getAngle" alt="" coords="467,107,606,149"/>
+<area shape="rect" id="node10" href="$class_view_1_1_line_shape.html#a97890dafe929d490540cb14c333aacb1" title="View::LineShape::getLength" alt="" coords="444,239,629,265"/>
+<area shape="rect" id="node11" href="$class_view_1_1_line_shape.html#a01aabcefbac117c9cb0d3dd55c25f982" title="View::LineShape::getBegin" alt="" coords="447,289,626,316"/>
+<area shape="rect" id="node7" href="$class_utils_1_1_shape2_d_utils.html#a80a202c16649fa6da57343df10035f7e" title="Utils::Shape2DUtils\l::rotate" alt="" coords="467,173,606,214"/>
+<area shape="rect" id="node6" href="$namespace_utils.html#a96137dcc99a51f57ebc9aa4a597ee1ea" title="Utils::GetAngle" alt="" coords="691,115,802,141"/>
+<area shape="rect" id="node8" href="$class_utils_1_1_shape2_d_utils.html#a2b54dee36b497da4e9f99ce27cbc4470" title="Utils::Shape2DUtils\l::rotateX" alt="" coords="677,234,816,275"/>
+<area shape="rect" id="node9" href="$class_utils_1_1_shape2_d_utils.html#ad09e100184c73aa040f9018d24ca5279" title="Utils::Shape2DUtils\l::rotateY" alt="" coords="677,169,816,210"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="View::RectangleShape::asDebugString" name="View::RectangleShape::asDebugString">
+<area shape="rect" id="node2" href="$class_view_1_1_rectangle_shape.html#a1d08a855309c7e62114e49495ea75d30" title="View::RectangleShape\l::getActivationColour" alt="" coords="226,5,381,47"/>
+<area shape="rect" id="node3" href="$class_view_1_1_robot_shape.html#aa5dba989bcb446011c80892bef0043a9" title="View::RobotShape::asDebug\lString" alt="" coords="208,71,399,112"/>
+<area shape="rect" id="node5" href="$class_view_1_1_way_point_shape.html#a237e5d964adaf21780dde8c36c82d7b3" title="View::WayPointShape\l::asDebugString" alt="" coords="227,136,380,177"/>
+<area shape="rect" id="node4" href="$class_view_1_1_robot_shape.html#ae7522add5dbc51fe3d56463131275ec5" title="View::RobotShape::getActivation\lColour" alt="" coords="447,71,661,112"/>
+<area shape="rect" id="node6" href="$class_view_1_1_goal_shape.html#ada793daabb42bdfe675320ae447c005e" title="View::GoalShape::asDebug\lString" alt="" coords="463,136,645,177"/>
+<area shape="rect" id="node8" href="$class_view_1_1_way_point_shape.html#a86b90f705f7ba904c5e221245257602d" title="View::WayPointShape\l::getActivationColour" alt="" coords="477,201,631,243"/>
+<area shape="rect" id="node7" href="$class_view_1_1_goal_shape.html#a8ee3a672a0a121e9b8a2a538417adc80" title="View::GoalShape::getActivation\lColour" alt="" coords="709,136,916,177"/>
+</map>

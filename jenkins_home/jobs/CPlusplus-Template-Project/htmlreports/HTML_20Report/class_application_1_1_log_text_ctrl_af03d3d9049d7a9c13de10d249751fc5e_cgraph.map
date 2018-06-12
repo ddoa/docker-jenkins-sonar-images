@@ -1,0 +1,5 @@
+<map id="Application::LogTextCtrl::OnCommandEvent" name="Application::LogTextCtrl::OnCommandEvent">
+<area shape="rect" id="node2" href="$class_application_1_1_log_text_ctrl.html#aecf20eb2fc19af8632542de0166a050e" title="Application::LogTextCtrl::log" alt="" coords="216,5,403,32"/>
+<area shape="rect" id="node4" href="$namespace_widgets.html#a2c202b9372aa11290c31f883c0ff9458" title="Widgets::STDSTRING" alt="" coords="231,56,387,83"/>
+<area shape="rect" id="node3" href="$namespace_widgets.html#af92dace3ab6f9cbc0d9d288b8b9f7786" title="Widgets::WXSTRING" alt="" coords="451,5,601,32"/>
+</map>

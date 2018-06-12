@@ -1,0 +1,107 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<project>
+  <actions/>
+  <description></description>
+  <keepDependencies>false</keepDependencies>
+  <properties/>
+  <scm class="hudson.plugins.git.GitSCM" plugin="git@3.9.0">
+    <configVersion>2</configVersion>
+    <userRemoteConfigs>
+      <hudson.plugins.git.UserRemoteConfig>
+        <url>ssh://git@94.124.143.192:7999/jk/robotworld.git</url>
+        <credentialsId>70b858fb-9bb3-4ce2-af5b-263635daea76</credentialsId>
+      </hudson.plugins.git.UserRemoteConfig>
+    </userRemoteConfigs>
+    <branches>
+      <hudson.plugins.git.BranchSpec>
+        <name>*/master</name>
+      </hudson.plugins.git.BranchSpec>
+    </branches>
+    <doGenerateSubmoduleConfigurations>false</doGenerateSubmoduleConfigurations>
+    <submoduleCfg class="list"/>
+    <extensions/>
+  </scm>
+  <assignedNode>oose-cplusplus-slave</assignedNode>
+  <canRoam>false</canRoam>
+  <disabled>false</disabled>
+  <blockBuildWhenDownstreamBuilding>false</blockBuildWhenDownstreamBuilding>
+  <blockBuildWhenUpstreamBuilding>false</blockBuildWhenUpstreamBuilding>
+  <triggers/>
+  <concurrentBuild>false</concurrentBuild>
+  <builders>
+    <hudson.tasks.Shell>
+      <command>cd linux
+../configure
+make</command>
+    </hudson.tasks.Shell>
+    <hudson.tasks.Shell>
+      <command>mkdir -p docs/generated
+doxygen Doxyfile</command>
+    </hudson.tasks.Shell>
+    <hudson.tasks.Shell>
+      <command>cppcheck --enable=all --suppress=missingIncludeSystem:* --inline-suppr --inconclusive --xml --xml-version=2 --language=c++ ./ 2&gt; cppcheck.xml</command>
+    </hudson.tasks.Shell>
+    <hudson.plugins.sonar.SonarRunnerBuilder plugin="sonar@2.7.1">
+      <project></project>
+      <properties>sonar.projectKey=nl.han.wor:robotworld
+sonar.projectName=JK_RobotWorld
+sonar.sources=src</properties>
+      <javaOpts></javaOpts>
+      <additionalArguments></additionalArguments>
+      <jdk>(Inherit From Job)</jdk>
+      <task></task>
+    </hudson.plugins.sonar.SonarRunnerBuilder>
+  </builders>
+  <publishers>
+    <org.jenkinsci.plugins.cppcheck.CppcheckPublisher plugin="cppcheck@1.21">
+      <cppcheckConfig>
+        <pattern>cppcheck.xml</pattern>
+        <ignoreBlankFiles>false</ignoreBlankFiles>
+        <allowNoReport>false</allowNoReport>
+        <configSeverityEvaluation>
+          <threshold></threshold>
+          <newThreshold></newThreshold>
+          <failureThreshold></failureThreshold>
+          <newFailureThreshold></newFailureThreshold>
+          <healthy></healthy>
+          <unHealthy></unHealthy>
+          <severityError>true</severityError>
+          <severityWarning>true</severityWarning>
+          <severityStyle>true</severityStyle>
+          <severityPerformance>true</severityPerformance>
+          <severityInformation>true</severityInformation>
+          <severityNoCategory>true</severityNoCategory>
+          <severityPortability>true</severityPortability>
+        </configSeverityEvaluation>
+        <configGraph>
+          <xSize>500</xSize>
+          <ySize>200</ySize>
+          <numBuildsInGraph>0</numBuildsInGraph>
+          <displayAllErrors>true</displayAllErrors>
+          <displayErrorSeverity>false</displayErrorSeverity>
+          <displayWarningSeverity>false</displayWarningSeverity>
+          <displayStyleSeverity>false</displayStyleSeverity>
+          <displayPerformanceSeverity>false</displayPerformanceSeverity>
+          <displayInformationSeverity>false</displayInformationSeverity>
+          <displayNoCategorySeverity>false</displayNoCategorySeverity>
+          <displayPortabilitySeverity>false</displayPortabilitySeverity>
+        </configGraph>
+      </cppcheckConfig>
+    </org.jenkinsci.plugins.cppcheck.CppcheckPublisher>
+    <htmlpublisher.HtmlPublisher plugin="htmlpublisher@1.16">
+      <reportTargets>
+        <htmlpublisher.HtmlPublisherTarget>
+          <reportName>HTML Report</reportName>
+          <reportDir>docs/generated/html</reportDir>
+          <reportFiles>hierarchy.html</reportFiles>
+          <alwaysLinkToLastBuild>false</alwaysLinkToLastBuild>
+          <reportTitles></reportTitles>
+          <keepAll>false</keepAll>
+          <allowMissing>false</allowMissing>
+          <includes>**/*</includes>
+        </htmlpublisher.HtmlPublisherTarget>
+      </reportTargets>
+    </htmlpublisher.HtmlPublisher>
+  </publishers>
+  <buildWrappers/>
+</project>

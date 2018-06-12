@@ -1,0 +1,12 @@
+<map id="View::Shape::isSelected" name="View::Shape::isSelected">
+<area shape="rect" id="node2" href="$class_view_1_1_line_shape.html#a84f369c61a8f0f05d84410c240390493" title="View::LineShape::draw" alt="" coords="483,5,639,32"/>
+<area shape="rect" id="node4" href="$class_view_1_1_line_shape.html#a2fe3effe9eff5bd00fe495e0f1c39606" title="View::LineShape::drawHead" alt="" coords="219,56,405,83"/>
+<area shape="rect" id="node5" href="$class_view_1_1_rectangle_shape.html#a430ce6f93a932205861ec0327df3ca42" title="View::RectangleShape\l::draw" alt="" coords="235,107,389,149"/>
+<area shape="rect" id="node7" href="$class_view_1_1_robot_shape.html#a9f12f9abfa2d4ebfa47b06e02c71d23c" title="View::RobotShape::draw" alt="" coords="229,173,395,200"/>
+<area shape="rect" id="node9" href="$class_view_1_1_wall_shape.html#a1da863c9f5b02edf721f173fef2903d8" title="View::WallShape::draw" alt="" coords="233,224,391,251"/>
+<area shape="rect" id="node10" href="$class_view_1_1_way_point_shape.html#ac8e4cd575b74030ac9931f64bba16e1f" title="View::WayPointShape\l::draw" alt="" coords="235,275,389,317"/>
+<area shape="rect" id="node3" href="$class_view_1_1_line_shape.html#a21a183cd9f63130fe48497743c2c4abb" title="View::LineShape::handleNotification" alt="" coords="716,31,948,57"/>
+<area shape="rect" id="node6" href="$class_view_1_1_rectangle_shape.html#acae95cb4b05d77196451520ee7d7ca9c" title="View::RectangleShape\l::handleNotification" alt="" coords="483,107,638,149"/>
+<area shape="rect" id="node8" href="$class_view_1_1_robot_shape.html#ae7522add5dbc51fe3d56463131275ec5" title="View::RobotShape::getActivation\lColour" alt="" coords="453,173,668,214"/>
+<area shape="rect" id="node11" href="$class_view_1_1_way_point_shape.html#a86b90f705f7ba904c5e221245257602d" title="View::WayPointShape\l::getActivationColour" alt="" coords="484,275,637,317"/>
+</map>

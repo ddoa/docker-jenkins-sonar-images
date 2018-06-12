@@ -1,0 +1,23 @@
+<map id="View::RobotWorldCanvas::RobotWorldCanvas" name="View::RobotWorldCanvas::RobotWorldCanvas">
+<area shape="rect" id="node2" href="$class_view_1_1_robot_world_canvas.html#a976c8eb03167bf9c9b0f911ff3e0fa9e" title="View::RobotWorldCanvas\l::initialise" alt="" coords="227,579,400,621"/>
+<area shape="rect" id="node3" href="$namespace_widgets.html#af92dace3ab6f9cbc0d9d288b8b9f7786" title="Widgets::WXSTRING" alt="" coords="498,5,649,32"/>
+<area shape="rect" id="node4" href="$class_view_1_1_robot_world_canvas.html#ac74704c6f3337c017a338aa60ac550a6" title="View::RobotWorldCanvas\l::enableHandlePaint" alt="" coords="487,57,660,98"/>
+<area shape="rect" id="node5" href="$class_view_1_1_robot_world_canvas.html#a9a85f803ceea25f82b6dab3a68b51915" title="View::RobotWorldCanvas\l::enableHandleSize" alt="" coords="487,122,660,163"/>
+<area shape="rect" id="node6" href="$class_view_1_1_robot_world_canvas.html#aff53f317176e354f858710ad334473b1" title="View::RobotWorldCanvas\l::enableLeftDownHandling" alt="" coords="486,187,661,229"/>
+<area shape="rect" id="node7" href="$class_view_1_1_robot_world_canvas.html#adae323b06595ebe6c203beedd1f88594" title="View::RobotWorldCanvas\l::enableLeftUpHandling" alt="" coords="487,253,660,294"/>
+<area shape="rect" id="node8" href="$class_view_1_1_robot_world_canvas.html#ad34bec03c60bc74967da0815bfc3decb" title="View::RobotWorldCanvas\l::enableLeftDClickHandling" alt="" coords="483,318,664,359"/>
+<area shape="rect" id="node9" href="$class_view_1_1_robot_world_canvas.html#a2cf15bd7f032378476292e4ef4baeb60" title="View::RobotWorldCanvas\l::enableMiddleDownHandling" alt="" coords="478,383,669,425"/>
+<area shape="rect" id="node10" href="$class_view_1_1_robot_world_canvas.html#aff0f17e087d0c16b61fc3fa4664d9280" title="View::RobotWorldCanvas\l::enableMiddleUpHandling" alt="" coords="486,449,661,490"/>
+<area shape="rect" id="node11" href="$class_view_1_1_robot_world_canvas.html#abbf14eaa663020a5c28ddc34b04a7d93" title="View::RobotWorldCanvas\l::enableMiddleDClickHandling" alt="" coords="475,514,672,555"/>
+<area shape="rect" id="node12" href="$class_view_1_1_robot_world_canvas.html#a8b249411be7ea966eb7ad01698d30ff4" title="View::RobotWorldCanvas\l::enableRightDownHandling" alt="" coords="481,579,665,621"/>
+<area shape="rect" id="node13" href="$class_view_1_1_robot_world_canvas.html#ade500a4e9585a02b05f3c2bdcca59b39" title="View::RobotWorldCanvas\l::enableRightUpHandling" alt="" coords="487,645,660,686"/>
+<area shape="rect" id="node14" href="$class_view_1_1_robot_world_canvas.html#addbc170d9d9c998af49ffca65ed6216a" title="View::RobotWorldCanvas\l::enableRightDClickHandling" alt="" coords="478,710,669,751"/>
+<area shape="rect" id="node15" href="$class_view_1_1_robot_world_canvas.html#a6decd9bcd3acac80852476fc30f5df8e" title="View::RobotWorldCanvas\l::enableMouseMotionHandling" alt="" coords="475,775,672,817"/>
+<area shape="rect" id="node16" href="$class_view_1_1_robot_world_canvas.html#a531ca3c86af833a551ad9f3606cd4c9f" title="View::RobotWorldCanvas\l::enableKeyHandling" alt="" coords="487,841,660,882"/>
+<area shape="rect" id="node17" href="$class_view_1_1_robot_world_canvas.html#a652f1eec754019d4d8e3c32a7749545f" title="View::RobotWorldCanvas\l::enableActivationHandling" alt="" coords="485,906,662,947"/>
+<area shape="rect" id="node18" href="$class_view_1_1_robot_world_canvas.html#a6e0de11c21b2b482c440cc3b1dfc70ca" title="View::RobotWorldCanvas\l::enableSelectionHandling" alt="" coords="487,971,660,1013"/>
+<area shape="rect" id="node19" href="$class_view_1_1_robot_world_canvas.html#ad030befe82d71f44547da7c180427367" title="View::RobotWorldCanvas\l::enableItemMenuHandling" alt="" coords="485,1037,662,1078"/>
+<area shape="rect" id="node20" href="$class_base_1_1_observer.html#a805cc1ddc6526d692af81d76ae29d802" title="Base::Observer::handleNotificationsFor" alt="" coords="448,1103,699,1129"/>
+<area shape="rect" id="node22" href="$class_model_1_1_robot_world.html#a3129fe115ffa78851d1d81e62a87bfa0" title="Model::RobotWorld::\lgetRobotWorld" alt="" coords="502,1154,645,1195"/>
+<area shape="rect" id="node21" href="$class_base_1_1_notifier.html#a5c4e89f48f9688c71ffec225717dd79e" title="Base::Notifier::addObserver" alt="" coords="747,1103,931,1129"/>
+</map>

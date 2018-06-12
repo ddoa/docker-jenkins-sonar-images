@@ -1,0 +1,10 @@
+<map id="View::RobotWorldCanvas::handleRightUp" name="View::RobotWorldCanvas::handleRightUp">
+<area shape="rect" id="node2" href="$class_view_1_1_robot_world_canvas.html#afd5c96ae4213d92787fffa3b3bb27c44" title="View::RobotWorldCanvas\l::isShapeAt" alt="" coords="227,5,400,47"/>
+<area shape="rect" id="node3" href="$class_view_1_1_robot_world_canvas.html#a29edcdeeea1b21b5626b1f47fbe43871" title="View::RobotWorldCanvas\l::handleItemMenu" alt="" coords="227,71,400,112"/>
+<area shape="rect" id="node8" href="$class_view_1_1_robot_world_canvas.html#a8639eb495f08f2096163fbe9fd0f2549" title="View::RobotWorldCanvas\l::getShapeAt" alt="" coords="227,136,400,177"/>
+<area shape="rect" id="node9" href="$class_view_1_1_robot_world_canvas.html#a11ae3a4bc7c60fb560d42c1f63b8955b" title="View::RobotWorldCanvas\l::handleMenu" alt="" coords="227,201,400,243"/>
+<area shape="rect" id="node4" href="$class_application_1_1_logger.html#a0fa1454fb35f3e6980ba46801437f37e" title="Application::Logger::log" alt="" coords="448,78,607,105"/>
+<area shape="rect" id="node5" href="$namespace_application.html#a8385de8a3bbb35a3b7cfee9b16835ee9" title="Application::TheApp" alt="" coords="689,19,827,46"/>
+<area shape="rect" id="node6" href="$class_application_1_1_main_frame_window.html#a2716b3e370a4eef20a7fbeacbcad36a5" title="Application::MainFrameWindow\l::getTraceFunction" alt="" coords="655,71,861,112"/>
+<area shape="rect" id="node7" href="$class_base_1_1_debug_trace_function.html#a54f5a1f127e7624e50bb1a43146f8998" title="Base::DebugTraceFunction\l::trace" alt="" coords="667,136,849,177"/>
+</map>

@@ -1,0 +1,12 @@
+commit 13b22127e2d8f4ba923f0f938b49aff49e69e280
+tree c5371af8252aabbcdfea2067ee9e1b7ca7106e04
+parent 213ef84b007db5a75bbbceb5668ad9b1cbc01953
+author Rody Middelkoop <rody.middelkoop@han.nl> 2018-06-12 14:22:47 +0200
+committer Rody Middelkoop <rody.middelkoop@han.nl> 2018-06-12 14:22:47 +0200
+
+    Doxyfile edited online with Bitbucket. Changed absolute to relative
+    paths
+
+
+
+:100644 100644 581c78b73aa4fab34e077c8ac79c9383db89daa2 e4433c5c9a372b166d5be7f290706af561aa213f M	Doxyfile

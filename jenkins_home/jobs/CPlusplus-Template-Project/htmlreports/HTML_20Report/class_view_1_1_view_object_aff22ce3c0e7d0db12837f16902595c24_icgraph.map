@@ -1,0 +1,7 @@
+<map id="View::ViewObject::setModelObject" name="View::ViewObject::setModelObject">
+<area shape="rect" id="node2" href="$class_view_1_1_goal_shape.html#a2e8149d939f204e0cc0efc2488af8fb2" title="View::GoalShape::setGoal" alt="" coords="248,5,424,32"/>
+<area shape="rect" id="node3" href="$class_view_1_1_robot_shape.html#a96002bd3f90ced18aa3f0ab9b57902a3" title="View::RobotShape::setRobot" alt="" coords="240,56,432,83"/>
+<area shape="rect" id="node4" href="$class_view_1_1_robot_world_canvas.html#a2829529a8b4221f072aeac196bbc9b17" title="View::RobotWorldCanvas\l::setRobotWorld" alt="" coords="249,107,423,149"/>
+<area shape="rect" id="node5" href="$class_view_1_1_wall_shape.html#a0b34f9a058db38586162d63c3950b6d0" title="View::WallShape::setWall" alt="" coords="249,173,423,200"/>
+<area shape="rect" id="node6" href="$class_view_1_1_way_point_shape.html#ad75feefcec15d7c2ea7de8d1fea71fe9" title="View::WayPointShape\l::setWayPoint" alt="" coords="259,225,413,266"/>
+</map>

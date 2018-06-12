@@ -1,0 +1,8 @@
+<map id="Application::makeButton" name="Application::makeButton">
+<area shape="rect" id="node2" href="$class_application_1_1_main_frame_window.html#acc4b68465595b19ab6d23762b7ce1907" title="Application::MainFrameWindow\l::initialiseButtonPanel" alt="" coords="217,5,424,47"/>
+<area shape="rect" id="node3" href="$class_application_1_1_main_frame_window.html#a9d9bf15eb75cbce36bca4e22ba144161" title="Application::MainFrameWindow\l::initialiseRhsPanel" alt="" coords="472,5,679,47"/>
+<area shape="rect" id="node4" href="$class_application_1_1_main_frame_window.html#a88ea2a7e70bcd1a650c3834883d3deef" title="Application::MainFrameWindow\l::initialiseSplitterWindow" alt="" coords="727,5,933,47"/>
+<area shape="rect" id="node5" href="$class_application_1_1_main_frame_window.html#aa9064ca4429720b231234fba743c4b0f" title="Application::MainFrameWindow\l::initialiseClientPanel" alt="" coords="981,5,1188,47"/>
+<area shape="rect" id="node6" href="$class_application_1_1_main_frame_window.html#afbe4226dcd70f22c2ae32062881ceca6" title="Application::MainFrameWindow\l::initialise" alt="" coords="1236,5,1443,47"/>
+<area shape="rect" id="node7" href="$class_application_1_1_main_frame_window.html#a6cd8f5a881e4589dc8afa01d5f7ed4ba" title="Application::MainFrameWindow\l::MainFrameWindow" alt="" coords="1491,5,1697,47"/>
+</map>

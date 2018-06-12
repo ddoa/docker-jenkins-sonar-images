@@ -1,0 +1,16 @@
+<map id="Messaging::Session::handleBodyWritten" name="Messaging::Session::handleBodyWritten">
+<area shape="rect" id="node2" href="$class_messaging_1_1_session.html#aa6bb0133b721e77c31411cccc1eb6c40" title="Messaging::Session\l::handleHeaderWritten" alt="" coords="193,39,345,80"/>
+<area shape="rect" id="node3" href="$class_messaging_1_1_session.html#af6693149abfd302fd6285d99a0131f18" title="Messaging::Session\l::writeMessage" alt="" coords="393,39,533,80"/>
+<area shape="rect" id="node4" href="$class_messaging_1_1_server_session.html#a294d16e8d6c8839fee2358443d78dc15" title="Messaging::ServerSession\l::handleMessageRead" alt="" coords="581,5,760,47"/>
+<area shape="rect" id="node5" href="$class_messaging_1_1_client_session.html#abdafb1626e9eb590ae2ed984e095a490" title="Messaging::ClientSession\l::start" alt="" coords="583,71,758,112"/>
+<area shape="rect" id="node6" href="$class_messaging_1_1_client.html#a7804792b483e50df149e9e77191d5d16" title="Messaging::Client::\lhandleConnect" alt="" coords="808,71,943,112"/>
+<area shape="rect" id="node7" href="$class_messaging_1_1_client.html#ad591a306de7942562e5f682d4ec3b454" title="Messaging::Client::\ldispatchMessage" alt="" coords="991,71,1125,112"/>
+<area shape="rect" id="node8" href="$class_application_1_1_main_frame_window.html#acc4b68465595b19ab6d23762b7ce1907" title="Application::MainFrameWindow\l::initialiseButtonPanel" alt="" coords="1182,41,1389,83"/>
+<area shape="rect" id="node14" href="$class_model_1_1_robot.html#a7aabb3039cde09a96e07d900a5e19972" title="Model::Robot::stopCommunicating" alt="" coords="1173,107,1397,134"/>
+<area shape="rect" id="node9" href="$class_application_1_1_main_frame_window.html#a9d9bf15eb75cbce36bca4e22ba144161" title="Application::MainFrameWindow\l::initialiseRhsPanel" alt="" coords="1445,41,1652,83"/>
+<area shape="rect" id="node10" href="$class_application_1_1_main_frame_window.html#a88ea2a7e70bcd1a650c3834883d3deef" title="Application::MainFrameWindow\l::initialiseSplitterWindow" alt="" coords="1700,41,1907,83"/>
+<area shape="rect" id="node11" href="$class_application_1_1_main_frame_window.html#aa9064ca4429720b231234fba743c4b0f" title="Application::MainFrameWindow\l::initialiseClientPanel" alt="" coords="1955,41,2161,83"/>
+<area shape="rect" id="node12" href="$class_application_1_1_main_frame_window.html#afbe4226dcd70f22c2ae32062881ceca6" title="Application::MainFrameWindow\l::initialise" alt="" coords="2209,41,2416,83"/>
+<area shape="rect" id="node13" href="$class_application_1_1_main_frame_window.html#a6cd8f5a881e4589dc8afa01d5f7ed4ba" title="Application::MainFrameWindow\l::MainFrameWindow" alt="" coords="2464,41,2671,83"/>
+<area shape="rect" id="node15" href="$class_model_1_1_robot.html#a38d95cd9941ac61090d33e1e1d9f67a0" title="Model::Robot::~Robot" alt="" coords="1473,107,1624,134"/>
+</map>

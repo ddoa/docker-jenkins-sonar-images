@@ -1,0 +1,7 @@
+<map id="View::WallShape::updateEndPoint" name="View::WallShape::updateEndPoint">
+<area shape="rect" id="node2" href="$class_view_1_1_line_shape.html#a82b50c636d3bd4c9857e557d9652eba6" title="View::LineShape::getNode1" alt="" coords="254,5,438,32"/>
+<area shape="rect" id="node3" href="$class_view_1_1_view_object.html#a4bba06c19986a2180b581f4568e18c16" title="View::ViewObject::getObjectId" alt="" coords="245,56,447,83"/>
+<area shape="rect" id="node4" href="$class_view_1_1_wall_shape.html#a000135e6ab56de92a78496b2aee51896" title="View::WallShape::getWall" alt="" coords="259,107,433,133"/>
+<area shape="rect" id="node6" href="$class_view_1_1_line_shape.html#a02f9d9ec648b6da68b3d11e782377b04" title="View::LineShape::getNode2" alt="" coords="254,157,438,184"/>
+<area shape="rect" id="node5" href="$class_view_1_1_view_object.html#a3da9d193b02ec4e17c045280db2d944b" title="View::ViewObject::getModel\lObject" alt="" coords="495,99,681,141"/>
+</map>

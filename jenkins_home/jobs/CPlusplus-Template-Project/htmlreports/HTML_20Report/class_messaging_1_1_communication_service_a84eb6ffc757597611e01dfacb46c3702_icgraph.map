@@ -1,0 +1,4 @@
+<map id="Messaging::CommunicationService::getCommunicationService" name="Messaging::CommunicationService::getCommunicationService">
+<area shape="rect" id="node2" href="$class_model_1_1_robot.html#a0178459eef83c12c50056717b3c5b8a8" title="Model::Robot::startCommunicating" alt="" coords="280,5,505,32"/>
+<area shape="rect" id="node3" href="$class_messaging_1_1_server_session.html#a294d16e8d6c8839fee2358443d78dc15" title="Messaging::ServerSession\l::handleMessageRead" alt="" coords="303,57,482,98"/>
+</map>

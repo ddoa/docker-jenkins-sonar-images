@@ -1,0 +1,7 @@
+<map id="View::WallShape::occupies" name="View::WallShape::occupies">
+<area shape="rect" id="node2" href="$class_view_1_1_line_shape.html#a82b50c636d3bd4c9857e557d9652eba6" title="View::LineShape::getNode1" alt="" coords="236,5,420,32"/>
+<area shape="rect" id="node3" href="$class_view_1_1_line_shape.html#a02f9d9ec648b6da68b3d11e782377b04" title="View::LineShape::getNode2" alt="" coords="236,56,420,83"/>
+<area shape="rect" id="node4" href="$class_utils_1_1_shape2_d_utils.html#a9fea1c3cfa86f8776a2ffca0f1683c58" title="Utils::Shape2DUtils\l::isOnLine" alt="" coords="259,107,397,149"/>
+<area shape="rect" id="node5" href="$class_view_1_1_line_shape.html#a01aabcefbac117c9cb0d3dd55c25f982" title="View::LineShape::getBegin" alt="" coords="239,173,417,200"/>
+<area shape="rect" id="node6" href="$class_view_1_1_line_shape.html#a05c46acd617e5bd9d2e32e02f8bda30c" title="View::LineShape::getEnd" alt="" coords="243,224,413,251"/>
+</map>

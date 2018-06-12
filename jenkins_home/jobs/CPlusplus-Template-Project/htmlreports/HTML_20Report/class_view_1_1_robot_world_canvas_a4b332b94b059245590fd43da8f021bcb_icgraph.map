@@ -1,0 +1,13 @@
+<map id="View::RobotWorldCanvas::getSelectedShape" name="View::RobotWorldCanvas::getSelectedShape">
+<area shape="rect" id="node2" href="$class_view_1_1_robot_world_canvas.html#a6f01a640b1d11b8a5c399ec1beb5d9dd" title="View::RobotWorldCanvas\l::handleLeftDown" alt="" coords="227,99,400,140"/>
+<area shape="rect" id="node3" href="$class_view_1_1_robot_world_canvas.html#af3ba30c00eaedf7bbb67b731f12d1af7" title="View::RobotWorldCanvas\l::removeGenericShape" alt="" coords="448,263,621,304"/>
+<area shape="rect" id="node5" href="$class_view_1_1_robot_world_canvas.html#a0d1aeab78b87c7ac297fa877d63d4509" title="View::RobotWorldCanvas\l::handleDeleteRobot" alt="" coords="891,143,1064,184"/>
+<area shape="rect" id="node6" href="$class_view_1_1_robot_world_canvas.html#a59a9e54e21bd5bd93bf67b8ea53776c0" title="View::RobotWorldCanvas\l::handleDeleteWayPoint" alt="" coords="891,208,1064,250"/>
+<area shape="rect" id="node7" href="$class_view_1_1_robot_world_canvas.html#a373e72f2cda977a78ef7c9dae4fea0e5" title="View::RobotWorldCanvas\l::handleDeleteGoal" alt="" coords="891,318,1064,359"/>
+<area shape="rect" id="node8" href="$class_view_1_1_robot_world_canvas.html#a61e2fb050d5df8647ec9d9cf0ea8310b" title="View::RobotWorldCanvas\l::handleDeleteWall" alt="" coords="891,383,1064,424"/>
+<area shape="rect" id="node9" href="$class_view_1_1_robot_world_canvas.html#a57692f00a4e5fb281fc7baf1920f6430" title="View::RobotWorldCanvas\l::handleEditRobot" alt="" coords="227,164,400,206"/>
+<area shape="rect" id="node10" href="$class_view_1_1_robot_world_canvas.html#a28b10cb19c0c0810c329f8730dd26da3" title="View::RobotWorldCanvas\l::handleEditWayPoint" alt="" coords="227,230,400,271"/>
+<area shape="rect" id="node11" href="$class_view_1_1_robot_world_canvas.html#a02faf3e677c578a817e6c3e071c40fbd" title="View::RobotWorldCanvas\l::handleEditGoal" alt="" coords="227,295,400,336"/>
+<area shape="rect" id="node12" href="$class_view_1_1_robot_world_canvas.html#a028920fed66e9f764d55ae894e62b782" title="View::RobotWorldCanvas\l::handleShapeInfo" alt="" coords="227,360,400,402"/>
+<area shape="rect" id="node4" href="$class_view_1_1_robot_world_canvas.html#ac40c2e62c75618d63e09a0d4f0ca4bb4" title="View::RobotWorldCanvas\l::removeShape" alt="" coords="669,263,843,304"/>
+</map>

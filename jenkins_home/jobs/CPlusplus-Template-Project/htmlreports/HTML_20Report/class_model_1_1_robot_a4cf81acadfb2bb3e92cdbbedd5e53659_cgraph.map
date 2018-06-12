@@ -1,0 +1,31 @@
+<map id="Model::Robot::startActing" name="Model::Robot::startActing">
+<area shape="rect" id="node2" href="$class_model_1_1_robot.html#acedb81c962e36fbe88fdd583f6c8f696" title="Model::Robot::startDriving" alt="" coords="224,341,399,367"/>
+<area shape="rect" id="node3" href="$class_model_1_1_robot_world.html#a3129fe115ffa78851d1d81e62a87bfa0" title="Model::RobotWorld::\lgetRobotWorld" alt="" coords="1479,5,1622,47"/>
+<area shape="rect" id="node4" href="$class_model_1_1_robot_world.html#aade4556a2782c08af4e221bba8acc9e4" title="Model::RobotWorld::\lgetGoal" alt="" coords="473,363,615,404"/>
+<area shape="rect" id="node5" href="$class_model_1_1_robot.html#a398f0983a93029ebe3d52a9136e46035" title="Model::Robot::calculateRoute" alt="" coords="447,545,641,571"/>
+<area shape="rect" id="node12" href="$class_model_1_1_robot.html#a25462b6b270e44638522554646dd1180" title="Model::Robot::drive" alt="" coords="476,311,612,338"/>
+<area shape="rect" id="node6" href="$class_application_1_1_logger.html#a5440358021658e1f42b19c0fbddd6c41" title="Application::Logger\l::setDisable" alt="" coords="748,603,881,644"/>
+<area shape="rect" id="node7" href="$class_base_1_1_observer.html#a805cc1ddc6526d692af81d76ae29d802" title="Base::Observer::handleNotificationsFor" alt="" coords="689,669,940,695"/>
+<area shape="rect" id="node9" href="$class_path_algorithm_1_1_a_star.html#a9112cf1a7a2e991046d88a1f5cba8925" title="PathAlgorithm::AStar\l::search" alt="" coords="742,472,887,513"/>
+<area shape="rect" id="node10" href="$class_base_1_1_observer.html#a0646f881f6716ab7be41ecefa74b5071" title="Base::Observer::stopHandling\lNotificationsFor" alt="" coords="716,537,913,579"/>
+<area shape="rect" id="node8" href="$class_base_1_1_notifier.html#a5c4e89f48f9688c71ffec225717dd79e" title="Base::Notifier::addObserver" alt="" coords="999,669,1183,695"/>
+<area shape="rect" id="node11" href="$class_base_1_1_notifier.html#abd13a6f822088d759f4464dbe2e6bb88" title="Base::Notifier::removeObserver" alt="" coords="988,545,1195,571"/>
+<area shape="rect" id="node13" href="$struct_path_algorithm_1_1_vertex.html#a19a618c3b6b274dd5768c22a7d46295b" title="PathAlgorithm::Vertex\l::asPoint" alt="" coords="739,304,890,345"/>
+<area shape="rect" id="node14" href="$class_model_1_1_robot.html#a2af2ed12ab1ba7fc165c65ab960ce47f" title="Model::Robot::arrived" alt="" coords="741,253,888,279"/>
+<area shape="rect" id="node23" href="$class_model_1_1_robot.html#a64b560d02f2b8b2ce673ae79c48efee0" title="Model::Robot::collision" alt="" coords="1249,202,1403,229"/>
+<area shape="rect" id="node26" href="$class_application_1_1_logger.html#a0fa1454fb35f3e6980ba46801437f37e" title="Application::Logger::log" alt="" coords="735,370,894,397"/>
+<area shape="rect" id="node30" href="$class_base_1_1_notifier.html#a9a3df81524d8db68dd64f9a26575c6b4" title="Base::Notifier::notifyObservers" alt="" coords="713,421,916,447"/>
+<area shape="rect" id="node15" href="$class_model_1_1_robot.html#acbd3a6d498ef172b2a2184717ee3145d" title="Model::Robot::intersects" alt="" coords="1009,253,1174,279"/>
+<area shape="rect" id="node16" href="$class_model_1_1_robot.html#ac4a63616c22f45faeb36a20a261b412b" title="Model::Robot::getRegion" alt="" coords="1243,253,1409,279"/>
+<area shape="rect" id="node17" href="$class_model_1_1_robot.html#ac639c66e4e6bdea56e0810dc4367bd4a" title="Model::Robot::getFrontRight" alt="" coords="1457,303,1644,330"/>
+<area shape="rect" id="node20" href="$class_model_1_1_robot.html#aadaac0a394d5c19a842386bf6b11bb8f" title="Model::Robot::getFrontLeft" alt="" coords="1461,354,1640,381"/>
+<area shape="rect" id="node21" href="$class_model_1_1_robot.html#a32d493d758d06a09930255788eddaedf" title="Model::Robot::getBackLeft" alt="" coords="1461,202,1640,229"/>
+<area shape="rect" id="node22" href="$class_model_1_1_robot.html#ac505ad64304e9e284906af1357d518e5" title="Model::Robot::getBackRight" alt="" coords="1457,253,1644,279"/>
+<area shape="rect" id="node18" href="$class_utils_1_1_shape2_d_utils.html#a0a6d71335cddbfb02f15603a9594f3e7" title="Utils::Shape2DUtils\l::getAngle" alt="" coords="1692,271,1831,312"/>
+<area shape="rect" id="node19" href="$namespace_utils.html#a96137dcc99a51f57ebc9aa4a597ee1ea" title="Utils::GetAngle" alt="" coords="1879,278,1989,305"/>
+<area shape="rect" id="node24" href="$class_model_1_1_robot_world.html#a8aef8a1a3db634a5eb1c27598c48391a" title="Model::RobotWorld::\lgetWalls" alt="" coords="1479,136,1622,177"/>
+<area shape="rect" id="node25" href="$class_utils_1_1_shape2_d_utils.html#a404882ff5a44d0cfa6500941c4b925f5" title="Utils::Shape2DUtils\l::intersect" alt="" coords="1481,71,1620,112"/>
+<area shape="rect" id="node27" href="$namespace_application.html#a8385de8a3bbb35a3b7cfee9b16835ee9" title="Application::TheApp" alt="" coords="1022,311,1161,338"/>
+<area shape="rect" id="node28" href="$class_application_1_1_main_frame_window.html#a2716b3e370a4eef20a7fbeacbcad36a5" title="Application::MainFrameWindow\l::getTraceFunction" alt="" coords="988,363,1195,404"/>
+<area shape="rect" id="node29" href="$class_base_1_1_debug_trace_function.html#a54f5a1f127e7624e50bb1a43146f8998" title="Base::DebugTraceFunction\l::trace" alt="" coords="1001,428,1182,469"/>
+</map>

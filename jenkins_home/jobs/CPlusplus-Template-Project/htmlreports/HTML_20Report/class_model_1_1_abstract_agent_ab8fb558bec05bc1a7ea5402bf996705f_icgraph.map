@@ -1,0 +1,5 @@
+<map id="Model::AbstractAgent::addPercept" name="Model::AbstractAgent::addPercept">
+<area shape="rect" id="node2" href="$class_model_1_1_abstract_sensor.html#a2b0fb54fe519b4c58187b939ec612eb0" title="Model::AbstractSensor\l::sendPercept" alt="" coords="201,5,356,47"/>
+<area shape="rect" id="node3" href="$class_model_1_1_abstract_sensor.html#ab85ffa9f6dbdf249681ed95a052bf017" title="Model::AbstractSensor::run" alt="" coords="404,13,585,39"/>
+<area shape="rect" id="node4" href="$class_model_1_1_abstract_sensor.html#a958bad26decf903bb28fd45bc835c7bb" title="Model::AbstractSensor\l::setOn" alt="" coords="633,5,788,47"/>
+</map>

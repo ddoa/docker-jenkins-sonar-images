@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: gboissinot
+Build-Jdk: 1.7.0_67
+Extension-Name: cpptest
+Implementation-Title: cpptest
+Implementation-Version: 0.14
+Group-Id: com.thalesgroup.jenkins-ci.plugins
+Short-Name: cpptest
+Long-Name: Jenkins Cpptest plugin
+Url: http://wiki.jenkins-ci.org/display/JENKINS/Cpptest+Plugin
+Plugin-Version: 0.14
+Hudson-Version: 1.480
+Jenkins-Version: 1.480
+Plugin-Dependencies: analysis-core:1.34,xunit:1.91,maven-plugin:1.480,
+ javadoc:1.0
+Plugin-Developers: Aurelien Hebert:ahebert:aurrelhebert@gmail.com,Greg
+ ory Boissinot:gbois:,N. Q. Huy:NQH:quanghuycvut@yahoo.com
+

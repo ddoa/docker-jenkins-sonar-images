@@ -1,0 +1,7 @@
+<map id="Messaging::Session::handleHeaderWritten" name="Messaging::Session::handleHeaderWritten">
+<area shape="rect" id="node2" href="$class_messaging_1_1_session.html#aedafb8b5c664cd9d2d86b90b863bde77" title="Messaging::Session\l::getSocket" alt="" coords="209,5,349,47"/>
+<area shape="rect" id="node3" href="$struct_messaging_1_1_message.html#a36defae24a62ab6ce2c7725cd821f263" title="Messaging::Message\l::getBody" alt="" coords="205,71,352,112"/>
+<area shape="rect" id="node4" href="$struct_messaging_1_1_message.html#a25c4adba5ba37589bc90ba6fcd012d60" title="Messaging::Message\l::length" alt="" coords="205,136,352,177"/>
+<area shape="rect" id="node5" href="$class_messaging_1_1_session.html#a42e7eb7f1e5d41861417d03dcb5419e7" title="Messaging::Session\l::handleBodyWritten" alt="" coords="209,201,349,243"/>
+<area shape="rect" id="node6" href="$class_messaging_1_1_session.html#afcf204df8f7e67e470d454d9de561515" title="Messaging::Session\l::handleMessageWritten" alt="" coords="400,201,563,243"/>
+</map>

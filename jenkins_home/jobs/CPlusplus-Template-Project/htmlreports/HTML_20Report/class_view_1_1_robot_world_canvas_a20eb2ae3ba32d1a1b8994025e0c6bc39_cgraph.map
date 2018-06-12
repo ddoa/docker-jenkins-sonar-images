@@ -1,0 +1,5 @@
+<map id="View::RobotWorldCanvas::unpopulate" name="View::RobotWorldCanvas::unpopulate">
+<area shape="rect" id="node2" href="$class_model_1_1_robot_world.html#a3129fe115ffa78851d1d81e62a87bfa0" title="Model::RobotWorld::\lgetRobotWorld" alt="" coords="227,5,369,47"/>
+<area shape="rect" id="node3" href="$class_model_1_1_robot_world.html#aa54ca5337df73d34be09a2c3b9a66c37" title="Model::RobotWorld::\lunpopulate" alt="" coords="227,71,369,112"/>
+<area shape="rect" id="node4" href="$class_base_1_1_notifier.html#a9a3df81524d8db68dd64f9a26575c6b4" title="Base::Notifier::notifyObservers" alt="" coords="417,78,620,105"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="View::WayPointShape::asDebugString" name="View::WayPointShape::asDebugString">
+<area shape="rect" id="node2" href="$class_view_1_1_goal_shape.html#ada793daabb42bdfe675320ae447c005e" title="View::GoalShape::asDebug\lString" alt="" coords="207,5,389,47"/>
+<area shape="rect" id="node4" href="$class_view_1_1_way_point_shape.html#a86b90f705f7ba904c5e221245257602d" title="View::WayPointShape\l::getActivationColour" alt="" coords="221,71,375,112"/>
+<area shape="rect" id="node3" href="$class_view_1_1_goal_shape.html#a8ee3a672a0a121e9b8a2a538417adc80" title="View::GoalShape::getActivation\lColour" alt="" coords="437,5,644,47"/>
+</map>

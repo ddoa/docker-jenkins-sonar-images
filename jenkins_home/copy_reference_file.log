@@ -1,0 +1,40 @@
+--- Copying files at Mon Jun 11 21:25:07 UTC 2018
+INSTALLED plugins/cppcheck.jpi : 1.21
+INSTALLED plugins/jackson2-api.jpi : 2.8.11.3
+INSTALLED plugins/analysis-core.jpi : 1.95
+INSTALLED plugins/workflow-api.jpi : 2.27
+INSTALLED plugins/mailer.jpi : 1.21
+INSTALLED plugins/git-server.jpi : 1.7
+INSTALLED plugins/ssh-credentials.jpi : 1.13
+INSTALLED plugins/workflow-scm-step.jpi : 2.6
+INSTALLED plugins/github.jpi : 1.29.0
+INSTALLED plugins/apache-httpcomponents-client-4-api.jpi : 4.5.5-2.1
+INSTALLED plugins/script-security.jpi : 1.44
+INSTALLED plugins/maven-plugin.jpi : 3.1.2
+INSTALLED plugins/workflow-step-api.jpi : 2.15
+INSTALLED plugins/matrix-project.jpi : 1.13
+INSTALLED plugins/display-url-api.jpi : 2.2.0
+INSTALLED plugins/git.jpi : 3.9.0
+INSTALLED plugins/credentials.jpi : 2.1.16
+INSTALLED plugins/plain-credentials.jpi : 1.4
+INSTALLED plugins/gradle.jpi : 1.28
+INSTALLED plugins/javadoc.jpi : 1.4
+INSTALLED plugins/jsch.jpi : 0.1.54.2
+INSTALLED plugins/cpptest.jpi : 0.14
+INSTALLED plugins/git-client.jpi : 2.7.2
+INSTALLED plugins/stash-pullrequest-builder.jpi : 1.7.0
+INSTALLED plugins/xunit.jpi : 2.0.0
+INSTALLED plugins/doxygen.jpi : 0.18
+INSTALLED plugins/sonar.jpi : 2.7.1
+INSTALLED plugins/scm-api.jpi : 2.2.7
+INSTALLED plugins/greenballs.jpi : 1.15
+INSTALLED plugins/github-api.jpi : 1.92
+INSTALLED plugins/token-macro.jpi : 2.5
+INSTALLED plugins/antisamy-markup-formatter.jpi : 1.5
+INSTALLED plugins/junit.jpi : 1.24
+INSTALLED plugins/structs.jpi : 1.14
+INSTALLED plugins.txt
+--- Copying files at Mon Jun 11 21:28:50 UTC 2018
+--- Copying files at Tue Jun 12 11:48:23 UTC 2018
+--- Copying files at Tue Jun 12 12:35:00 UTC 2018
+INSTALLED plugins/htmlpublisher.jpi : 1.16

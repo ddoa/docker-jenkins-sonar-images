@@ -1,0 +1,8 @@
+<map id="Messaging::Message::setHeader" name="Messaging::Message::setHeader">
+<area shape="rect" id="node2" href="$class_messaging_1_1_session.html#a1ce6c51bea887b0745318de8de202af7" title="Messaging::Session\l::handleHeaderRead" alt="" coords="200,39,341,80"/>
+<area shape="rect" id="node3" href="$class_messaging_1_1_session.html#a9b5aa90c447db3b432751f453565e84b" title="Messaging::Session\l::readMessage" alt="" coords="389,39,529,80"/>
+<area shape="rect" id="node4" href="$class_messaging_1_1_server_session.html#a5b700fe14c9ec5fc54fde5a8eab22da6" title="Messaging::ServerSession\l::start" alt="" coords="577,5,756,47"/>
+<area shape="rect" id="node7" href="$class_messaging_1_1_client_session.html#a9bfa2e2edfe325487ee04b046fdc4604" title="Messaging::ClientSession\l::handleMessageWritten" alt="" coords="579,71,754,112"/>
+<area shape="rect" id="node5" href="$class_messaging_1_1_server.html#a7af1a9647f151e832c274d3674b6845f" title="Messaging::Server::\lhandleAccept" alt="" coords="804,5,943,47"/>
+<area shape="rect" id="node6" href="$class_messaging_1_1_server.html#a8f618713380149543f0817e2675d81aa" title="Messaging::Server::\lServer" alt="" coords="991,5,1129,47"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Model::ModelObject::getObjectId" name="Model::ModelObject::getObjectId">
+<area shape="rect" id="node2" href="$class_model_1_1_model_object.html#a5e08a08dd0a9dbdb62566e5595ff6ee6" title="Model::ModelObject\l::asString" alt="" coords="192,64,331,105"/>
+<area shape="rect" id="node8" href="$class_model_1_1_model_object.html#a3a5304d058f7b6b334d32b7f09af724b" title="Model::ModelObject\l::asDebugString" alt="" coords="192,129,331,171"/>
+<area shape="rect" id="node3" href="$class_model_1_1_model_object.html#a5330f9a80aeecb0ffe5110fc74258dcb" title="Model::ModelObject\l::toPtr" alt="" coords="402,123,541,164"/>
+<area shape="rect" id="node4" href="$class_model_1_1_robot_world.html#aba56c83813ed568e7d8ba3a2c36208fc" title="Model::RobotWorld::\lasString" alt="" coords="400,5,543,47"/>
+<area shape="rect" id="node6" href="$class_model_1_1_wall.html#a3c39cce57e64ca6cf86272da4b822419" title="Model::Wall::asString" alt="" coords="398,71,545,98"/>
+<area shape="rect" id="node5" href="$class_model_1_1_robot_world.html#aa95c3c9a583e2ac4da688d5b984fb8a1" title="Model::RobotWorld::\lasDebugString" alt="" coords="618,5,761,47"/>
+<area shape="rect" id="node7" href="$class_model_1_1_wall.html#ab17b6314973b1fb5761e8627ca21ff33" title="Model::Wall::getPoint2" alt="" coords="612,130,767,157"/>
+<area shape="rect" id="node9" href="$class_model_1_1_wall.html#af10267021d5e4f64bb3c47f762b5f721" title="Model::Wall::asDebugString" alt="" coords="379,189,564,215"/>
+</map>

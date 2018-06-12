@@ -1,0 +1,6 @@
+<map id="View::LineShape::occupies" name="View::LineShape::occupies">
+<area shape="rect" id="node2" href="$class_utils_1_1_shape2_d_utils.html#a297b88bbdc022369dbc06775878a73e5" title="Utils::Shape2DUtils\l::isInsidePolygon" alt="" coords="253,5,392,47"/>
+<area shape="rect" id="node3" href="$class_utils_1_1_shape2_d_utils.html#a9fea1c3cfa86f8776a2ffca0f1683c58" title="Utils::Shape2DUtils\l::isOnLine" alt="" coords="253,71,392,112"/>
+<area shape="rect" id="node4" href="$class_view_1_1_line_shape.html#a01aabcefbac117c9cb0d3dd55c25f982" title="View::LineShape::getBegin" alt="" coords="233,137,412,163"/>
+<area shape="rect" id="node5" href="$class_view_1_1_line_shape.html#a05c46acd617e5bd9d2e32e02f8bda30c" title="View::LineShape::getEnd" alt="" coords="238,187,407,214"/>
+</map>

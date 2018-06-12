@@ -1,0 +1,9 @@
+<map id="Model::Robot::getBackRight" name="Model::Robot::getBackRight">
+<area shape="rect" id="node2" href="$class_model_1_1_robot.html#ac4a63616c22f45faeb36a20a261b412b" title="Model::Robot::getRegion" alt="" coords="240,5,407,32"/>
+<area shape="rect" id="node8" href="$class_model_1_1_robot.html#a64b560d02f2b8b2ce673ae79c48efee0" title="Model::Robot::collision" alt="" coords="460,56,615,83"/>
+<area shape="rect" id="node3" href="$class_model_1_1_robot.html#acbd3a6d498ef172b2a2184717ee3145d" title="Model::Robot::intersects" alt="" coords="455,5,620,32"/>
+<area shape="rect" id="node4" href="$class_model_1_1_robot.html#a2af2ed12ab1ba7fc165c65ab960ce47f" title="Model::Robot::arrived" alt="" coords="668,5,815,32"/>
+<area shape="rect" id="node5" href="$class_model_1_1_robot.html#a25462b6b270e44638522554646dd1180" title="Model::Robot::drive" alt="" coords="863,31,999,57"/>
+<area shape="rect" id="node6" href="$class_model_1_1_robot.html#acedb81c962e36fbe88fdd583f6c8f696" title="Model::Robot::startDriving" alt="" coords="1047,31,1221,57"/>
+<area shape="rect" id="node7" href="$class_model_1_1_robot.html#a4cf81acadfb2bb3e92cdbbedd5e53659" title="Model::Robot::startActing" alt="" coords="1269,31,1440,57"/>
+</map>

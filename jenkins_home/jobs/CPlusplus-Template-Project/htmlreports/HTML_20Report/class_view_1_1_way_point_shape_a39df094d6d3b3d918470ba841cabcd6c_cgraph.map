@@ -1,0 +1,6 @@
+<map id="View::WayPointShape::asString" name="View::WayPointShape::asString">
+<area shape="rect" id="node2" href="$class_view_1_1_rectangle_shape.html#ab6650f0ce587dc7802fd1d2b88b2a7df" title="View::RectangleShape\l::asString" alt="" coords="207,57,361,98"/>
+<area shape="rect" id="node3" href="$class_view_1_1_shape.html#a282b801714c40623152ab8ec0c2dbdbd" title="View::Shape::asString" alt="" coords="427,5,579,32"/>
+<area shape="rect" id="node4" href="$class_utils_1_1_shape2_d_utils.html#a47efad1075c8fabb7af1146f17fadaa2" title="Utils::Shape2DUtils\l::asString" alt="" coords="433,57,572,98"/>
+<area shape="rect" id="node5" href="$class_view_1_1_view_object.html#a3da9d193b02ec4e17c045280db2d944b" title="View::ViewObject::getModel\lObject" alt="" coords="409,122,596,163"/>
+</map>

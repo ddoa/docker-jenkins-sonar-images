@@ -1,0 +1,17 @@
+<map id="Messaging::Server::Server" name="Messaging::Server::Server">
+<area shape="rect" id="node2" href="$class_messaging_1_1_server.html#a7af1a9647f151e832c274d3674b6845f" title="Messaging::Server::\lhandleAccept" alt="" coords="192,57,331,99"/>
+<area shape="rect" id="node3" href="$class_messaging_1_1_session.html#aedafb8b5c664cd9d2d86b90b863bde77" title="Messaging::Session\l::getSocket" alt="" coords="1067,5,1207,47"/>
+<area shape="rect" id="node4" href="$class_messaging_1_1_server_session.html#a5b700fe14c9ec5fc54fde5a8eab22da6" title="Messaging::ServerSession\l::start" alt="" coords="379,99,557,140"/>
+<area shape="rect" id="node5" href="$class_messaging_1_1_session.html#a9b5aa90c447db3b432751f453565e84b" title="Messaging::Session\l::readMessage" alt="" coords="605,152,745,193"/>
+<area shape="rect" id="node6" href="$struct_messaging_1_1_message.html#ad66c64a0450a41e213b368789d2a00c8" title="Messaging::Message\l::getHeader" alt="" coords="1063,283,1210,324"/>
+<area shape="rect" id="node8" href="$struct_messaging_1_1_message_1_1_message_header.html#ad158eaa804e721ea6d0b4496ab85fea0" title="Messaging::Message\l::MessageHeader::getHeader\lLength" alt="" coords="793,305,987,361"/>
+<area shape="rect" id="node10" href="$class_messaging_1_1_session.html#a1ce6c51bea887b0745318de8de202af7" title="Messaging::Session\l::handleHeaderRead" alt="" coords="819,152,961,193"/>
+<area shape="rect" id="node7" href="$struct_messaging_1_1_message_1_1_message_header.html#a0da4d891f5b39f92011244b6d5715f21" title="Messaging::Message\l::MessageHeader::MessageHeader" alt="" coords="1287,283,1515,324"/>
+<area shape="rect" id="node9" href="$struct_messaging_1_1_message_1_1_message_header.html#ac99d4db665d8003f248dbd5d43621777" title="Messaging::Message\l::MessageHeader::toString" alt="" coords="1047,348,1226,389"/>
+<area shape="rect" id="node11" href="$struct_messaging_1_1_message.html#aa5d6274a086f01a52853a0536316402e" title="Messaging::Message\l::setHeader" alt="" coords="1063,217,1210,259"/>
+<area shape="rect" id="node13" href="$struct_messaging_1_1_message_1_1_message_header.html#adbbdd89f26b4aedb5f084125c19ba28f" title="Messaging::Message\l::MessageHeader::getMessage\lLength" alt="" coords="1035,71,1239,127"/>
+<area shape="rect" id="node14" href="$class_messaging_1_1_session.html#a9b2379db03dd4b22896df3b6891509a9" title="Messaging::Session\l::handleBodyRead" alt="" coords="1067,152,1207,193"/>
+<area shape="rect" id="node12" href="$struct_messaging_1_1_message.html#a9a63d50cbf443564d6092d532495f95f" title="Messaging::Message\l::setMessageType" alt="" coords="1327,217,1474,259"/>
+<area shape="rect" id="node15" href="$struct_messaging_1_1_message.html#abedc9083e15715ad417043e6c483818e" title="Messaging::Message\l::setBody" alt="" coords="1327,87,1474,128"/>
+<area shape="rect" id="node16" href="$class_messaging_1_1_session.html#ac2fbf589586288cee9b408514907d044" title="Messaging::Session\l::handleMessageRead" alt="" coords="1325,152,1477,193"/>
+</map>

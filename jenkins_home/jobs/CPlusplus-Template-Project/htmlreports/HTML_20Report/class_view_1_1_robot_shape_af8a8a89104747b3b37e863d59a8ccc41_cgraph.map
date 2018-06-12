@@ -1,0 +1,5 @@
+<map id="View::RobotShape::occupies" name="View::RobotShape::occupies">
+<area shape="rect" id="node2" href="$class_view_1_1_robot_shape.html#a0523eb9091b6a646337daffd3a5109ef" title="View::RobotShape::getRobot" alt="" coords="244,13,436,39"/>
+<area shape="rect" id="node4" href="$class_utils_1_1_shape2_d_utils.html#a297b88bbdc022369dbc06775878a73e5" title="Utils::Shape2DUtils\l::isInsidePolygon" alt="" coords="271,64,409,105"/>
+<area shape="rect" id="node3" href="$class_view_1_1_view_object.html#a3da9d193b02ec4e17c045280db2d944b" title="View::ViewObject::getModel\lObject" alt="" coords="484,5,671,47"/>
+</map>

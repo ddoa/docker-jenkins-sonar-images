@@ -1,0 +1,13 @@
+<map id="View::RectangleShape::handleNotification" name="View::RectangleShape::handleNotification">
+<area shape="rect" id="node2" href="$class_view_1_1_rectangle_shape.html#a430ce6f93a932205861ec0327df3ca42" title="View::RectangleShape\l::draw" alt="" coords="208,107,363,149"/>
+<area shape="rect" id="node7" href="$class_view_1_1_rectangle_shape.html#ac630238e4d04d52b02186161bbb4af83" title="View::RectangleShape\l::occupies" alt="" coords="208,173,363,214"/>
+<area shape="rect" id="node8" href="$class_view_1_1_rectangle_shape.html#ab8a7952e9af5256eb0159a4ccb2e428e" title="View::RectangleShape\l::isBorderPoint" alt="" coords="208,238,363,279"/>
+<area shape="rect" id="node10" href="$class_view_1_1_rectangle_shape.html#a318c941664e862fd5dfa77deafecff9d" title="View::RectangleShape\l::getCentre" alt="" coords="208,303,363,345"/>
+<area shape="rect" id="node11" href="$class_view_1_1_rectangle_shape.html#a905817abb1294f0e83f1ecdb065cc994" title="View::RectangleShape\l::setCentre" alt="" coords="208,369,363,410"/>
+<area shape="rect" id="node12" href="$class_view_1_1_rectangle_shape.html#a9ea9fa2a0f5e08339c6bb545f55c3619" title="View::RectangleShape\l::getTitle" alt="" coords="208,434,363,475"/>
+<area shape="rect" id="node3" href="$namespace_widgets.html#af92dace3ab6f9cbc0d9d288b8b9f7786" title="Widgets::WXSTRING" alt="" coords="418,5,569,32"/>
+<area shape="rect" id="node4" href="$class_view_1_1_shape.html#adfee2a06f80fddf55b5860f9e5240224" title="View::Shape::isSelected" alt="" coords="411,56,576,83"/>
+<area shape="rect" id="node5" href="$class_view_1_1_rectangle_shape.html#a91c3819821d46d16d1ad9cdb7e9ee411" title="View::RectangleShape\l::getSelectionColour" alt="" coords="416,107,571,149"/>
+<area shape="rect" id="node6" href="$class_view_1_1_rectangle_shape.html#ae46a6bd4a771cb9784a51b0dc65bc52e" title="View::RectangleShape\l::getNormalColour" alt="" coords="416,173,571,214"/>
+<area shape="rect" id="node9" href="$class_utils_1_1_shape2_d_utils.html#a9fea1c3cfa86f8776a2ffca0f1683c58" title="Utils::Shape2DUtils\l::isOnLine" alt="" coords="424,238,563,279"/>
+</map>

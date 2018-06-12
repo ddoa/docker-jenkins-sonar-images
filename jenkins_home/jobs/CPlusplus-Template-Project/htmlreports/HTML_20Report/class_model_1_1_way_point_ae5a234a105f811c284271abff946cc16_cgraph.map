@@ -1,0 +1,8 @@
+<map id="Model::WayPoint::getPosition" name="Model::WayPoint::getPosition">
+<area shape="rect" id="node2" href="$class_model_1_1_way_point.html#a174d63b3a9b11d03ec31ed3841280814" title="Model::WayPoint::setPosition" alt="" coords="248,5,443,32"/>
+<area shape="rect" id="node4" href="$class_model_1_1_way_point.html#a4e27e0bf46f43fca76b9144cf36d09e1" title="Model::WayPoint::getRegion" alt="" coords="497,81,687,108"/>
+<area shape="rect" id="node5" href="$class_model_1_1_way_point.html#a2ef35d2797e4419f4f2fa872776e3ba8" title="Model::WayPoint::intersects" alt="" coords="252,107,439,133"/>
+<area shape="rect" id="node6" href="$class_model_1_1_way_point.html#a289ac533ef95259472b9492512848da3" title="Model::WayPoint::asString" alt="" coords="256,157,435,184"/>
+<area shape="rect" id="node7" href="$class_model_1_1_way_point.html#a4907b68b8999aaa687e9d27ba1459238" title="Model::WayPoint::asDebug\lString" alt="" coords="254,209,437,250"/>
+<area shape="rect" id="node3" href="$class_base_1_1_notifier.html#a9a3df81524d8db68dd64f9a26575c6b4" title="Base::Notifier::notifyObservers" alt="" coords="491,5,693,32"/>
+</map>

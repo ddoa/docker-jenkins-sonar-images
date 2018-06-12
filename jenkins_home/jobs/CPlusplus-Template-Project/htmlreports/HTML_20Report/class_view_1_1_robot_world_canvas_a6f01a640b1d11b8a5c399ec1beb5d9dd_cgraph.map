@@ -1,0 +1,16 @@
+<map id="View::RobotWorldCanvas::handleLeftDown" name="View::RobotWorldCanvas::handleLeftDown">
+<area shape="rect" id="node2" href="$class_view_1_1_robot_world_canvas.html#a91fc7b9d37d228ba9285fe82dab04fbb" title="View::RobotWorldCanvas\l::selectShapeAt" alt="" coords="249,5,422,47"/>
+<area shape="rect" id="node3" href="$class_view_1_1_robot_world_canvas.html#a51477f3840089817d00ed6f2dee7c69e" title="View::RobotWorldCanvas\l::setSelectedShape" alt="" coords="509,15,682,56"/>
+<area shape="rect" id="node4" href="$class_view_1_1_robot_world_canvas.html#a4b332b94b059245590fd43da8f021bcb" title="View::RobotWorldCanvas\l::getSelectedShape" alt="" coords="249,123,422,164"/>
+<area shape="rect" id="node5" href="$class_view_1_1_wall_shape.html#ac53998b44692cb6d51e57db6d32b9fa2" title="View::WallShape::hasEndPointAt" alt="" coords="227,189,444,215"/>
+<area shape="rect" id="node12" href="$class_application_1_1_logger.html#a0fa1454fb35f3e6980ba46801437f37e" title="Application::Logger::log" alt="" coords="256,301,415,327"/>
+<area shape="rect" id="node6" href="$class_view_1_1_line_shape.html#a82b50c636d3bd4c9857e557d9652eba6" title="View::LineShape::getNode1" alt="" coords="747,261,931,287"/>
+<area shape="rect" id="node7" href="$class_view_1_1_wall_shape.html#af5c307406f3751b970f057601923c920" title="View::WallShape::occupies" alt="" coords="504,159,687,186"/>
+<area shape="rect" id="node8" href="$class_view_1_1_line_shape.html#a02f9d9ec648b6da68b3d11e782377b04" title="View::LineShape::getNode2" alt="" coords="747,42,931,69"/>
+<area shape="rect" id="node9" href="$class_utils_1_1_shape2_d_utils.html#a9fea1c3cfa86f8776a2ffca0f1683c58" title="Utils::Shape2DUtils\l::isOnLine" alt="" coords="769,93,908,135"/>
+<area shape="rect" id="node10" href="$class_view_1_1_line_shape.html#a01aabcefbac117c9cb0d3dd55c25f982" title="View::LineShape::getBegin" alt="" coords="749,159,928,186"/>
+<area shape="rect" id="node11" href="$class_view_1_1_line_shape.html#a05c46acd617e5bd9d2e32e02f8bda30c" title="View::LineShape::getEnd" alt="" coords="754,210,923,237"/>
+<area shape="rect" id="node13" href="$namespace_application.html#a8385de8a3bbb35a3b7cfee9b16835ee9" title="Application::TheApp" alt="" coords="526,393,665,419"/>
+<area shape="rect" id="node14" href="$class_application_1_1_main_frame_window.html#a2716b3e370a4eef20a7fbeacbcad36a5" title="Application::MainFrameWindow\l::getTraceFunction" alt="" coords="492,261,699,303"/>
+<area shape="rect" id="node15" href="$class_base_1_1_debug_trace_function.html#a54f5a1f127e7624e50bb1a43146f8998" title="Base::DebugTraceFunction\l::trace" alt="" coords="505,327,686,368"/>
+</map>

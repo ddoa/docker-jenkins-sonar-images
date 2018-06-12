@@ -1,0 +1,27 @@
+<l:dependencies xmlns:l='licenses'>
+  <l:dependency name='Jenkins Cppcheck Plug-in' groupId='org.jenkins-ci.plugins' artifactId='cppcheck' version='1.21' url='http://wiki.jenkins-ci.org/display/JENKINS/Cppcheck+Plugin'>
+    <l:description />
+    <l:license name='MIT license' />
+  </l:dependency>
+  <l:dependency name='Java2html api' groupId='de.java2html' artifactId='java2html' version='5.0' url='http://www.java2html.de'>
+    <l:description>Java2html api</l:description>
+    <l:license name='GPL' url='http://www.gnu.org/licenses/gpl.html' />
+  </l:dependency>
+  <l:dependency name='JAXB API bundle for GlassFish V3' groupId='javax.xml.bind' artifactId='jaxb-api' version='2.2.1' url='https://jaxb.dev.java.net/'>
+    <l:description>JAXB (JSR 222) API</l:description>
+    <l:license name='CDDL 1.0' url='https://glassfish.dev.java.net/public/CDDL+GPL.html' />
+    <l:license name='GPL2 w/ CPE' url='https://glassfish.dev.java.net/public/CDDL+GPL.html' />
+  </l:dependency>
+  <l:dependency name='JavaBeans Activation Framework (JAF)' groupId='javax.activation' artifactId='activation' version='1.1' url='http://java.sun.com/products/javabeans/jaf/index.jsp'>
+    <l:description>JavaBeans Activation Framework (JAF) is a standard extension to the Java platform that lets you take advantage of standard services to: determine the type of an arbitrary piece of data; encapsulate access to it; discover the operations available on it; and instantiate the appropriate bean to perform the operation(s).</l:description>
+    <l:license name='Common Development and Distribution License (CDDL) v1.0' url='https://glassfish.dev.java.net/public/CDDLv1.0.html' />
+  </l:dependency>
+  <l:dependency name='JAXB RI' groupId='com.sun.xml.bind' artifactId='jaxb-impl' version='2.2.1.1' url='https://jaxb.dev.java.net/'>
+    <l:description>JAXB (JSR 222) reference implementation</l:description>
+    <l:license name='CDDL 1.0' url='https://glassfish.dev.java.net/public/CDDL+GPL.html' />
+    <l:license name='GPL2 w/ CPE' url='https://glassfish.dev.java.net/public/CDDL+GPL.html' />
+  </l:dependency>
+  <l:dependency name='stax-api' groupId='javax.xml.stream' artifactId='stax-api' version='1.0-2'>
+    <l:description />
+  </l:dependency>
+</l:dependencies>

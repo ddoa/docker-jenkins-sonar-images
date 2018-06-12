@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: nathan
+Build-Jdk: 1.8.0_11
+Extension-Name: stash-pullrequest-builder
+Specification-Title: This Jenkins plugin builds pull requests from Sta
+ sh and will report the test results.
+Implementation-Title: stash-pullrequest-builder
+Implementation-Version: 1.7.0
+Group-Id: org.jenkins-ci.plugins
+Short-Name: stash-pullrequest-builder
+Long-Name: Stash Pullrequest Builder Plugin
+Url: https://wiki.jenkins-ci.org/display/JENKINS/Stash+pullrequest+bui
+ lder+plugin
+Plugin-Version: 1.7.0
+Hudson-Version: 1.625.3
+Jenkins-Version: 1.625.3
+Plugin-Dependencies: git:3.0.0,credentials:2.1.5
+Plugin-Developers: Nathan McCarthy:nemccarthy:nem@nemccarthy.me
+

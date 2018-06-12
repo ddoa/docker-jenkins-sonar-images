@@ -1,0 +1,6 @@
+<map id="Messaging::CommunicationService::getIOService" name="Messaging::CommunicationService::getIOService">
+<area shape="rect" id="node2" href="$class_messaging_1_1_communication_service.html#a91ea43508fc513e2be07071314bfcad9" title="Messaging::Communication\lService::runRequestHandler" alt="" coords="237,35,424,76"/>
+<area shape="rect" id="node5" href="$class_messaging_1_1_server_session.html#a294d16e8d6c8839fee2358443d78dc15" title="Messaging::ServerSession\l::handleMessageRead" alt="" coords="241,100,420,141"/>
+<area shape="rect" id="node3" href="$class_messaging_1_1_communication_service.html#aafbba827051d66b74a0d5262074a950a" title="Messaging::Communication\lService::runRequestHandler" alt="" coords="491,5,678,47"/>
+<area shape="rect" id="node4" href="$class_model_1_1_robot.html#a0178459eef83c12c50056717b3c5b8a8" title="Model::Robot::startCommunicating" alt="" coords="472,71,697,98"/>
+</map>

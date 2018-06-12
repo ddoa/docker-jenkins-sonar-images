@@ -1,0 +1,14 @@
+<map id="Model::BoundedVector::~BoundedVector" name="Model::BoundedVector::~BoundedVector">
+<area shape="rect" id="node2" href="$class_model_1_1_bounded_vector.html#a9cd9a0c3001c9a717b9fe7c38c4a791a" title="Model::BoundedVector\l::getMagnitude" alt="" coords="613,31,768,72"/>
+<area shape="rect" id="node3" href="$class_model_1_1_bounded_vector.html#a063e74d97117138fc2ed5fe7e007f133" title="Model::BoundedVector\l::normalise" alt="" coords="411,60,565,102"/>
+<area shape="rect" id="node4" href="$class_model_1_1_bounded_vector.html#a6a4148a2cf2298951d0b2469c33d799f" title="Model::BoundedVector\l::getNormalised" alt="" coords="208,111,363,152"/>
+<area shape="rect" id="node5" href="$class_model_1_1_bounded_vector.html#a29b4dd3c012309ccdb622fab46da50cb" title="Model::BoundedVector\l::reverse" alt="" coords="208,176,363,218"/>
+<area shape="rect" id="node6" href="$class_model_1_1_bounded_vector.html#a6f707a9499dc1a1a4051fa2b40f8d40d" title="Model::BoundedVector\l::operator+=" alt="" coords="208,242,363,283"/>
+<area shape="rect" id="node7" href="$class_model_1_1_bounded_vector.html#ae1cb231bfe977d563eebfd47526cb1c0" title="Model::BoundedVector\l::operator&#45;=" alt="" coords="208,307,363,348"/>
+<area shape="rect" id="node8" href="$class_model_1_1_bounded_vector.html#aeed3b7e66556126aee3478daa6f9199b" title="Model::BoundedVector\l::operator*=" alt="" coords="208,372,363,414"/>
+<area shape="rect" id="node9" href="$class_model_1_1_bounded_vector.html#ac949b337eed72116f01507c7bba5820a" title="Model::BoundedVector\l::operator/=" alt="" coords="208,438,363,479"/>
+<area shape="rect" id="node10" href="$class_model_1_1_bounded_vector.html#a05b571d646e8c226c3bef443cbdb00f7" title="Model::BoundedVector\l::operator&#45;" alt="" coords="208,503,363,544"/>
+<area shape="rect" id="node12" href="$class_model_1_1_bounded_vector.html#ad8f4c1804a7dffac2d7f33e290434490" title="Model::BoundedVector\l::asString" alt="" coords="411,594,565,635"/>
+<area shape="rect" id="node13" href="$class_model_1_1_bounded_vector.html#a4b78474cc3562158e6bbcb85375f8277" title="Model::BoundedVector\l::asDebugString" alt="" coords="208,620,363,662"/>
+<area shape="rect" id="node11" href="$class_model_1_1_bounded_vector.html#a6f9c2ace8143904b8b39c85c7e7c2f25" title="Model::BoundedVector\l::BoundedVector" alt="" coords="411,503,565,544"/>
+</map>

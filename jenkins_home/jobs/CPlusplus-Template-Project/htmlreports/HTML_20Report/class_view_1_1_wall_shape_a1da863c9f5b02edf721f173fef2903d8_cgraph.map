@@ -1,0 +1,8 @@
+<map id="View::WallShape::draw" name="View::WallShape::draw">
+<area shape="rect" id="node2" href="$class_view_1_1_shape.html#adfee2a06f80fddf55b5860f9e5240224" title="View::Shape::isSelected" alt="" coords="222,5,387,32"/>
+<area shape="rect" id="node3" href="$namespace_widgets.html#af92dace3ab6f9cbc0d9d288b8b9f7786" title="Widgets::WXSTRING" alt="" coords="229,56,380,83"/>
+<area shape="rect" id="node4" href="$class_view_1_1_line_shape.html#a8fba5a6b64e99f1d94f22f647e399819" title="View::LineShape::getLine\lWidth" alt="" coords="219,107,390,149"/>
+<area shape="rect" id="node5" href="$class_view_1_1_line_shape.html#a82b50c636d3bd4c9857e557d9652eba6" title="View::LineShape::getNode1" alt="" coords="213,173,397,200"/>
+<area shape="rect" id="node6" href="$class_view_1_1_line_shape.html#a6fd4cecd56ada7a276772e90dd21683a" title="View::LineShape::getCentre" alt="" coords="212,224,397,251"/>
+<area shape="rect" id="node7" href="$class_view_1_1_line_shape.html#a02f9d9ec648b6da68b3d11e782377b04" title="View::LineShape::getNode2" alt="" coords="213,275,397,301"/>
+</map>

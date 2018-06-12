@@ -1,0 +1,8 @@
+<map id="View::WallShape::setWall" name="View::WallShape::setWall">
+<area shape="rect" id="node2" href="$class_view_1_1_view_object.html#aff22ce3c0e7d0db12837f16902595c24" title="View::ViewObject::setModel\lObject" alt="" coords="228,35,415,76"/>
+<area shape="rect" id="node3" href="$class_view_1_1_view_object.html#a7b0dee4ac27877d28968858214e708e3" title="View::ViewObject::rebind\lModelObject" alt="" coords="463,35,632,76"/>
+<area shape="rect" id="node4" href="$class_base_1_1_observer.html#a0646f881f6716ab7be41ecefa74b5071" title="Base::Observer::stopHandling\lNotificationsFor" alt="" coords="707,5,904,47"/>
+<area shape="rect" id="node6" href="$class_base_1_1_observer.html#a805cc1ddc6526d692af81d76ae29d802" title="Base::Observer::handleNotificationsFor" alt="" coords="680,71,931,98"/>
+<area shape="rect" id="node5" href="$class_base_1_1_notifier.html#abd13a6f822088d759f4464dbe2e6bb88" title="Base::Notifier::removeObserver" alt="" coords="979,13,1185,39"/>
+<area shape="rect" id="node7" href="$class_base_1_1_notifier.html#a5c4e89f48f9688c71ffec225717dd79e" title="Base::Notifier::addObserver" alt="" coords="990,71,1174,98"/>
+</map>

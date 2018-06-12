@@ -1,0 +1,8 @@
+<map id="View::RobotWorldCanvas::populate" name="View::RobotWorldCanvas::populate">
+<area shape="rect" id="node2" href="$class_model_1_1_robot_world.html#a3129fe115ffa78851d1d81e62a87bfa0" title="Model::RobotWorld::\lgetRobotWorld" alt="" coords="417,5,560,47"/>
+<area shape="rect" id="node3" href="$class_model_1_1_robot_world.html#afe09ff15bf8a4cbed1222baa065107d9" title="Model::RobotWorld::\lpopulate" alt="" coords="227,113,369,155"/>
+<area shape="rect" id="node4" href="$class_model_1_1_robot_world.html#a39b05b2a480bdf48724316d21fd84985" title="Model::RobotWorld::\lnewRobot" alt="" coords="417,71,560,112"/>
+<area shape="rect" id="node5" href="$class_base_1_1_notifier.html#a9a3df81524d8db68dd64f9a26575c6b4" title="Base::Notifier::notifyObservers" alt="" coords="608,166,811,193"/>
+<area shape="rect" id="node6" href="$class_model_1_1_robot_world.html#a8b3d9243b9550a6fe01bc3b880fadec5" title="Model::RobotWorld::\lnewWall" alt="" coords="417,188,560,229"/>
+<area shape="rect" id="node7" href="$class_model_1_1_robot_world.html#ad9797427eef14210b661c4ce9a84f917" title="Model::RobotWorld::\lnewGoal" alt="" coords="417,253,560,295"/>
+</map>

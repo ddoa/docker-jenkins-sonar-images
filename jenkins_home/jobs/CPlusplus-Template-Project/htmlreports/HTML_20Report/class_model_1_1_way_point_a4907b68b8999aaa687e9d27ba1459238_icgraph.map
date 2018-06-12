@@ -1,0 +1,5 @@
+<map id="Model::WayPoint::asDebugString" name="Model::WayPoint::asDebugString">
+<area shape="rect" id="node2" href="$class_model_1_1_goal.html#a7537db261bfe07579941549b69ecb088" title="Model::Goal::asDebugString" alt="" coords="240,5,427,32"/>
+<area shape="rect" id="node3" href="$class_model_1_1_way_point.html#ae5a234a105f811c284271abff946cc16" title="Model::WayPoint::getPosition" alt="" coords="236,56,431,83"/>
+<area shape="rect" id="node4" href="$class_model_1_1_goal.html#a0d04e8c95b755526f0e4650a346a447b" title="Model::Goal::asString" alt="" coords="479,56,627,83"/>
+</map>

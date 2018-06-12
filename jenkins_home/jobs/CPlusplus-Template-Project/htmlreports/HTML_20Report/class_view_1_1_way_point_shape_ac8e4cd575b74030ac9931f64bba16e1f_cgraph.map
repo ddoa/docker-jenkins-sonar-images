@@ -1,0 +1,9 @@
+<map id="View::WayPointShape::draw" name="View::WayPointShape::draw">
+<area shape="rect" id="node2" href="$namespace_widgets.html#af92dace3ab6f9cbc0d9d288b8b9f7786" title="Widgets::WXSTRING" alt="" coords="214,5,365,32"/>
+<area shape="rect" id="node3" href="$class_view_1_1_way_point_shape.html#ac60ac5629873cb3b3b9346ac48576953" title="View::WayPointShape\l::getWayPoint" alt="" coords="213,57,366,98"/>
+<area shape="rect" id="node5" href="$class_view_1_1_rectangle_shape.html#a38bdf9e1d7bd66154c036a3f12d157a4" title="View::RectangleShape\l::getSize" alt="" coords="212,122,367,163"/>
+<area shape="rect" id="node6" href="$class_view_1_1_shape.html#adfee2a06f80fddf55b5860f9e5240224" title="View::Shape::isSelected" alt="" coords="207,188,372,215"/>
+<area shape="rect" id="node7" href="$class_view_1_1_way_point_shape.html#a881f88ce8cb32ed4f18eb4313fafa158" title="View::WayPointShape\l::getSelectionColour" alt="" coords="213,239,366,281"/>
+<area shape="rect" id="node8" href="$class_view_1_1_way_point_shape.html#aafeecbae13f42a749fb7decb533915e0" title="View::WayPointShape\l::getNormalColour" alt="" coords="213,305,366,346"/>
+<area shape="rect" id="node4" href="$class_view_1_1_view_object.html#a3da9d193b02ec4e17c045280db2d944b" title="View::ViewObject::getModel\lObject" alt="" coords="420,57,607,98"/>
+</map>

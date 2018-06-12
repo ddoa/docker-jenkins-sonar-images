@@ -1,0 +1,8 @@
+<map id="Model::Robot::startCommunicating" name="Model::Robot::startCommunicating">
+<area shape="rect" id="node2" href="$class_application_1_1_main_application.html#a973c9c83d80717041866159f1f64609e" title="Application::MainApplication\l::isArgGiven" alt="" coords="299,5,485,47"/>
+<area shape="rect" id="node3" href="$class_application_1_1_main_application.html#ad696027fcd46221aa7897b8d3e970c83" title="Application::MainApplication\l::getArg" alt="" coords="299,71,485,112"/>
+<area shape="rect" id="node4" href="$class_messaging_1_1_communication_service.html#a84eb6ffc757597611e01dfacb46c3702" title="Messaging::Communication\lService::getCommunicationService" alt="" coords="279,136,505,177"/>
+<area shape="rect" id="node5" href="$class_messaging_1_1_communication_service.html#a91ea43508fc513e2be07071314bfcad9" title="Messaging::Communication\lService::runRequestHandler" alt="" coords="299,201,485,243"/>
+<area shape="rect" id="node7" href="$namespacestd.html#a5a4884a3b1890357be19cd6ff56179da" title="std::stoi" alt="" coords="357,267,427,294"/>
+<area shape="rect" id="node6" href="$class_messaging_1_1_communication_service.html#a603bfa697fbac1d8ea95115fbc78de24" title="Messaging::Communication\lService::getIOService" alt="" coords="553,201,737,243"/>
+</map>
