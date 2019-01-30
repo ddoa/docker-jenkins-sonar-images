@@ -1,6 +1,0 @@
-<map id="View::RobotShape::handleActivated" name="View::RobotShape::handleActivated">
-<area shape="rect" id="node2" href="$class_model_1_1_robot_world.html#a3129fe115ffa78851d1d81e62a87bfa0" title="Model::RobotWorld::\lgetRobotWorld" alt="" coords="255,5,398,47"/>
-<area shape="rect" id="node3" href="$class_model_1_1_robot_world.html#aade4556a2782c08af4e221bba8acc9e4" title="Model::RobotWorld::\lgetGoal" alt="" coords="255,71,398,112"/>
-<area shape="rect" id="node4" href="$class_view_1_1_robot_shape.html#a0523eb9091b6a646337daffd3a5109ef" title="View::RobotShape::getRobot" alt="" coords="231,137,423,163"/>
-<area shape="rect" id="node5" href="$class_view_1_1_view_object.html#a3da9d193b02ec4e17c045280db2d944b" title="View::ViewObject::getModel\lObject" alt="" coords="471,129,657,171"/>
-</map>

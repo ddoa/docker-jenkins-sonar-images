@@ -38,3 +38,19 @@ INSTALLED plugins.txt
 --- Copying files at Tue Jun 12 11:48:23 UTC 2018
 --- Copying files at Tue Jun 12 12:35:00 UTC 2018
 INSTALLED plugins/htmlpublisher.jpi : 1.16
+--- Copying files at Wed Jan 30 17:57:12 UTC 2019
+UPGRADED plugins/jackson2-api.jpi : Image version (2.9.8) is newer than installed version (2.8.11.3)
+UPGRADED plugins/workflow-api.jpi : Image version (2.33) is newer than installed version (2.27)
+UPGRADED plugins/mailer.jpi : Image version (1.23) is newer than installed version (1.21)
+UPGRADED plugins/ssh-credentials.jpi : Image version (1.14) is newer than installed version (1.13)
+UPGRADED plugins/workflow-scm-step.jpi : Image version (2.7) is newer than installed version (2.6)
+UPGRADED plugins/apache-httpcomponents-client-4-api.jpi : Image version (4.5.5-3.0) is newer than installed version (4.5.5-2.1)
+UPGRADED plugins/script-security.jpi : Image version (1.51) is newer than installed version (1.44)
+UPGRADED plugins/workflow-step-api.jpi : Image version (2.18) is newer than installed version (2.15)
+UPGRADED plugins/display-url-api.jpi : Image version (2.3.0) is newer than installed version (2.2.0)
+UPGRADED plugins/credentials.jpi : Image version (2.1.18) is newer than installed version (2.1.16)
+UPGRADED plugins/plain-credentials.jpi : Image version (1.5) is newer than installed version (1.4)
+UPGRADED plugins/jsch.jpi : Image version (0.1.55) is newer than installed version (0.1.54.2)
+UPGRADED plugins/github-api.jpi : Image version (1.95) is newer than installed version (1.92)
+UPGRADED plugins/token-macro.jpi : Image version (2.6) is newer than installed version (2.5)
+UPGRADED plugins/structs.jpi : Image version (1.17) is newer than installed version (1.14)

@@ -1,0 +1,21 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-01-30 18:08:12.853 UTC</timestamp>
+  <md5sum>c9be56284a92dcb2576679282eff80bf</md5sum>
+  <fileName>org.slf4j:slf4j-api-1.7.21.jar</fileName>
+  <usages>
+    <entry>
+      <string>OOSE-Jenkins-Slave-Java-Test/nl.asd.demo:notificationservice</string>
+      <ranges>3-6</ranges>
+    </entry>
+    <entry>
+      <string>OOSE-Jenkins-Slave-Java-Test/nl.asd.demo:bootstrap</string>
+      <ranges>3-6</ranges>
+    </entry>
+    <entry>
+      <string>OOSE-Jenkins-Slave-Java-Test</string>
+      <ranges>3-6</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

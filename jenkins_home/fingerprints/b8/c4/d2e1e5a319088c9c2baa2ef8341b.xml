@@ -1,0 +1,21 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-01-30 18:06:57.854 UTC</timestamp>
+  <original>
+    <name>OOSE-Jenkins-Slave-Java-Test/nl.asd.demo:loganalyzer.shared</name>
+    <number>3</number>
+  </original>
+  <md5sum>b8c4d2e1e5a319088c9c2baa2ef8341b</md5sum>
+  <fileName>nl.asd.demo:loganalyzer.shared:pom.xml</fileName>
+  <usages>
+    <entry>
+      <string>OOSE-Jenkins-Slave-Java-Test</string>
+      <ranges>3-6</ranges>
+    </entry>
+    <entry>
+      <string>OOSE-Jenkins-Slave-Java-Test/nl.asd.demo:loganalyzer.shared</string>
+      <ranges>3-6</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

@@ -1,0 +1,29 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-01-30 18:06:39.780 UTC</timestamp>
+  <md5sum>8a507817b28077e0478add944c64586a</md5sum>
+  <fileName>commons-logging:commons-logging-1.0.4.jar</fileName>
+  <usages>
+    <entry>
+      <string>OOSE-Jenkins-Slave-Java-Test/nl.asd.demo:loganalyzer</string>
+      <ranges>3-6</ranges>
+    </entry>
+    <entry>
+      <string>OOSE-Jenkins-Slave-Java-Test/nl.asd.demo:notificationservice</string>
+      <ranges>3-6</ranges>
+    </entry>
+    <entry>
+      <string>OOSE-Jenkins-Slave-Java-Test/nl.asd.demo:logger</string>
+      <ranges>3-6</ranges>
+    </entry>
+    <entry>
+      <string>OOSE-Jenkins-Slave-Java-Test</string>
+      <ranges>3-6</ranges>
+    </entry>
+    <entry>
+      <string>OOSE-Jenkins-Slave-Java-Test/nl.asd.demo:loganalyzer.shared</string>
+      <ranges>3-6</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

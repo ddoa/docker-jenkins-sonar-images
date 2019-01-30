@@ -1,8 +1,0 @@
-<map id="View::ViewObject::rebindModelObject" name="View::ViewObject::rebindModelObject">
-<area shape="rect" id="node2" href="$class_view_1_1_view_object.html#aff22ce3c0e7d0db12837f16902595c24" title="View::ViewObject::setModel\lObject" alt="" coords="223,107,409,149"/>
-<area shape="rect" id="node3" href="$class_view_1_1_goal_shape.html#a2e8149d939f204e0cc0efc2488af8fb2" title="View::GoalShape::setGoal" alt="" coords="465,5,641,32"/>
-<area shape="rect" id="node4" href="$class_view_1_1_robot_shape.html#a96002bd3f90ced18aa3f0ab9b57902a3" title="View::RobotShape::setRobot" alt="" coords="457,56,649,83"/>
-<area shape="rect" id="node5" href="$class_view_1_1_robot_world_canvas.html#a2829529a8b4221f072aeac196bbc9b17" title="View::RobotWorldCanvas\l::setRobotWorld" alt="" coords="467,107,640,149"/>
-<area shape="rect" id="node6" href="$class_view_1_1_wall_shape.html#a0b34f9a058db38586162d63c3950b6d0" title="View::WallShape::setWall" alt="" coords="466,173,641,200"/>
-<area shape="rect" id="node7" href="$class_view_1_1_way_point_shape.html#ad75feefcec15d7c2ea7de8d1fea71fe9" title="View::WayPointShape\l::setWayPoint" alt="" coords="477,225,630,266"/>
-</map>

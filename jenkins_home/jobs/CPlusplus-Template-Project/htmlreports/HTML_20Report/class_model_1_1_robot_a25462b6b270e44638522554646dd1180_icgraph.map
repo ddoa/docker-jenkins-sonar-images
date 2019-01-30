@@ -1,4 +1,0 @@
-<map id="Model::Robot::drive" name="Model::Robot::drive">
-<area shape="rect" id="node2" href="$class_model_1_1_robot.html#acedb81c962e36fbe88fdd583f6c8f696" title="Model::Robot::startDriving" alt="" coords="189,5,364,32"/>
-<area shape="rect" id="node3" href="$class_model_1_1_robot.html#a4cf81acadfb2bb3e92cdbbedd5e53659" title="Model::Robot::startActing" alt="" coords="412,5,583,32"/>
-</map>

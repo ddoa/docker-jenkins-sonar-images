@@ -1,0 +1,37 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-01-30 18:07:00.1 UTC</timestamp>
+  <md5sum>5c6072bee7ef87f799ac899f722b6fdf</md5sum>
+  <fileName>net.bytebuddy:byte-buddy-1.6.14.jar</fileName>
+  <usages>
+    <entry>
+      <string>OOSE-Jenkins-Slave-Java-Test/nl.asd.demo:logservice</string>
+      <ranges>3-6</ranges>
+    </entry>
+    <entry>
+      <string>OOSE-Jenkins-Slave-Java-Test/nl.asd.demo:loganalyzer</string>
+      <ranges>3-6</ranges>
+    </entry>
+    <entry>
+      <string>OOSE-Jenkins-Slave-Java-Test/nl.asd.demo:notificationservice</string>
+      <ranges>3-6</ranges>
+    </entry>
+    <entry>
+      <string>OOSE-Jenkins-Slave-Java-Test/nl.asd.demo:bootstrap</string>
+      <ranges>3-6</ranges>
+    </entry>
+    <entry>
+      <string>OOSE-Jenkins-Slave-Java-Test/nl.asd.demo:logservice.gateway</string>
+      <ranges>3-6</ranges>
+    </entry>
+    <entry>
+      <string>OOSE-Jenkins-Slave-Java-Test</string>
+      <ranges>3-6</ranges>
+    </entry>
+    <entry>
+      <string>OOSE-Jenkins-Slave-Java-Test/nl.asd.demo:loganalyzer.shared</string>
+      <ranges>3-6</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

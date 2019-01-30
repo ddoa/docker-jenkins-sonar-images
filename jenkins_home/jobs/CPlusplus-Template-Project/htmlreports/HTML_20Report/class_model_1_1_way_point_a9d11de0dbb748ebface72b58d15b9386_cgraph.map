@@ -1,6 +1,0 @@
-<map id="Model::WayPoint::getName" name="Model::WayPoint::getName">
-<area shape="rect" id="node2" href="$class_model_1_1_way_point.html#a436222b246b29ca5af7a6b56ca983435" title="Model::WayPoint::setName" alt="" coords="236,5,419,32"/>
-<area shape="rect" id="node4" href="$class_model_1_1_way_point.html#afffa2017c79e36df333b4b3fc7f948ee" title="Model::WayPoint::getSize" alt="" coords="240,56,415,83"/>
-<area shape="rect" id="node5" href="$class_model_1_1_way_point.html#ab21868d4ea0aaca73130b8195482a711" title="Model::WayPoint::setSize" alt="" coords="240,107,415,133"/>
-<area shape="rect" id="node3" href="$class_base_1_1_notifier.html#a9a3df81524d8db68dd64f9a26575c6b4" title="Base::Notifier::notifyObservers" alt="" coords="467,56,669,83"/>
-</map>

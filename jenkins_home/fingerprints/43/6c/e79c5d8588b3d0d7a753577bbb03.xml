@@ -1,0 +1,37 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-01-30 18:07:00.216 UTC</timestamp>
+  <md5sum>436ce79c5d8588b3d0d7a753577bbb03</md5sum>
+  <fileName>org.powermock:powermock-module-junit4-1.7.3.jar</fileName>
+  <usages>
+    <entry>
+      <string>OOSE-Jenkins-Slave-Java-Test/nl.asd.demo:logservice</string>
+      <ranges>3-6</ranges>
+    </entry>
+    <entry>
+      <string>OOSE-Jenkins-Slave-Java-Test/nl.asd.demo:loganalyzer</string>
+      <ranges>3-6</ranges>
+    </entry>
+    <entry>
+      <string>OOSE-Jenkins-Slave-Java-Test/nl.asd.demo:notificationservice</string>
+      <ranges>3-6</ranges>
+    </entry>
+    <entry>
+      <string>OOSE-Jenkins-Slave-Java-Test/nl.asd.demo:bootstrap</string>
+      <ranges>3-6</ranges>
+    </entry>
+    <entry>
+      <string>OOSE-Jenkins-Slave-Java-Test/nl.asd.demo:logservice.gateway</string>
+      <ranges>3-6</ranges>
+    </entry>
+    <entry>
+      <string>OOSE-Jenkins-Slave-Java-Test</string>
+      <ranges>3-6</ranges>
+    </entry>
+    <entry>
+      <string>OOSE-Jenkins-Slave-Java-Test/nl.asd.demo:loganalyzer.shared</string>
+      <ranges>3-6</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

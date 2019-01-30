@@ -1,0 +1,31 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<result plugin="junit@1.24">
+  <suites>
+    <suite>
+      <file>/var/jenkins_home/jobs/OOSE-Jenkins-Slave-Java-Test/workspace/logservice.gateway/target/surefire-reports/TEST-nl.asd.demo.logservice.gateway.LogServiceGatewayTest.xml</file>
+      <name>nl.asd.demo.logservice.gateway.LogServiceGatewayTest</name>
+      <duration>2.223</duration>
+      <time>2.223</time>
+      <enclosingBlocks/>
+      <enclosingBlockNames/>
+      <cases>
+        <case>
+          <duration>2.175</duration>
+          <className>nl.asd.demo.logservice.gateway.LogServiceGatewayTest</className>
+          <testName>whenLogRequestedAPostIsDeliveredOnTheRestClient</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+        <case>
+          <duration>0.032</duration>
+          <className>nl.asd.demo.logservice.gateway.LogServiceGatewayTest</className>
+          <testName>whenLogAvailableRequestedAGetIsDeliveredOnTheRestClient</testName>
+          <skipped>false</skipped>
+          <failedSince>0</failedSince>
+        </case>
+      </cases>
+    </suite>
+  </suites>
+  <duration>2.223</duration>
+  <keepLongStdio>false</keepLongStdio>
+</result>

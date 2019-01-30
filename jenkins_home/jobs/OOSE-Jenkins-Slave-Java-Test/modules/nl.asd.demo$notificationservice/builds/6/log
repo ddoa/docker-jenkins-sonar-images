@@ -1,0 +1,66 @@
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] Building notificationservice 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[8mha:////4Ice2Aih+m6NcAtsOYcl8HjBpEKTfN3j1u1muyfiA+ljAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ notificationservice ---
+[INFO] Deleting /var/jenkins_home/jobs/OOSE-Jenkins-Slave-Java-Test/workspace/notificationservice/target
+[INFO] 
+[8mha:////4Ice2Aih+m6NcAtsOYcl8HjBpEKTfN3j1u1muyfiA+ljAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- jacoco-maven-plugin:0.7.8:prepare-agent (default) @ notificationservice ---
+[INFO] argLine set to -javaagent:/var/jenkins_home/.m2/repository/org/jacoco/org.jacoco.agent/0.7.8/org.jacoco.agent-0.7.8-runtime.jar=destfile=/var/jenkins_home/jobs/OOSE-Jenkins-Slave-Java-Test/workspace/notificationservice/target/jacoco.exec
+[INFO] 
+[8mha:////4Ice2Aih+m6NcAtsOYcl8HjBpEKTfN3j1u1muyfiA+ljAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ notificationservice ---
+[8mha:////4CeFX6ZRPk/Buu3I6aG7dGjgQH5JFo0UdcV+a7DBz2ZeAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] Using platform encoding (ANSI_X3.4-1968 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] Copying 1 resource
+[INFO] 
+[8mha:////4Ice2Aih+m6NcAtsOYcl8HjBpEKTfN3j1u1muyfiA+ljAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ notificationservice ---
+[INFO] Changes detected - recompiling the module!
+[8mha:////4CeFX6ZRPk/Buu3I6aG7dGjgQH5JFo0UdcV+a7DBz2ZeAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] File encoding has not been set, using platform encoding ANSI_X3.4-1968, i.e. build is platform dependent!
+[INFO] Compiling 4 source files to /var/jenkins_home/jobs/OOSE-Jenkins-Slave-Java-Test/workspace/notificationservice/target/classes
+[INFO] 
+[8mha:////4Ice2Aih+m6NcAtsOYcl8HjBpEKTfN3j1u1muyfiA+ljAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ notificationservice ---
+[8mha:////4CeFX6ZRPk/Buu3I6aG7dGjgQH5JFo0UdcV+a7DBz2ZeAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] Using platform encoding (ANSI_X3.4-1968 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] Copying 1 resource
+[INFO] 
+[8mha:////4Ice2Aih+m6NcAtsOYcl8HjBpEKTfN3j1u1muyfiA+ljAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ notificationservice ---
+[INFO] Changes detected - recompiling the module!
+[8mha:////4CeFX6ZRPk/Buu3I6aG7dGjgQH5JFo0UdcV+a7DBz2ZeAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] File encoding has not been set, using platform encoding ANSI_X3.4-1968, i.e. build is platform dependent!
+[INFO] Compiling 6 source files to /var/jenkins_home/jobs/OOSE-Jenkins-Slave-Java-Test/workspace/notificationservice/target/test-classes
+[INFO] 
+[8mha:////4Ice2Aih+m6NcAtsOYcl8HjBpEKTfN3j1u1muyfiA+ljAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-surefire-plugin:2.20:test (default-test) @ notificationservice ---
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running nl.asd.demo.notificationservice.MailGatewayTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.667 s - in nl.asd.demo.notificationservice.MailGatewayTest
+[INFO] Running nl.asd.demo.notificationservice.SMTPConnectionPropertiesTest
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.112 s - in nl.asd.demo.notificationservice.SMTPConnectionPropertiesTest
+[INFO] Running nl.asd.demo.notificationservice.MailServiceTest
+[INFO] Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.14 s - in nl.asd.demo.notificationservice.MailServiceTest
+[INFO] Running nl.asd.demo.notificationservice.MailSessionFactoryTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.75 s - in nl.asd.demo.notificationservice.MailSessionFactoryTest
+[INFO] 
+[INFO] Results:
+[INFO] 
+[INFO] Tests run: 10, Failures: 0, Errors: 0, Skipped: 0
+[INFO] 
+[JENKINS] Recording test results
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Summary:
+[INFO] 
+[INFO] logger ............................................. SUCCESS [ 10.713 s]
+[INFO] loganalyzer.shared ................................. SUCCESS [ 10.776 s]
+[INFO] loganalyzer ........................................ SUCCESS [ 13.525 s]
+[INFO] logservice ......................................... SUCCESS [ 26.702 s]
+[INFO] notificationservice ................................ SUCCESS [ 44.552 s]
+[INFO] logservice.gateway ................................. SUCCESS [ 24.591 s]
+[INFO] bootstrap .......................................... SUCCESS [  7.591 s]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 02:23 min
+[INFO] Finished at: 2019-01-30T18:26:20Z
+[INFO] Final Memory: 32M/72M
+[INFO] ------------------------------------------------------------------------
+Waiting for Jenkins to finish collecting data

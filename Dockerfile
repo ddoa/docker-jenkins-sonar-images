@@ -1,4 +1,4 @@
-FROM rodmidde/docker-jenkins-slaves:rodmidde_jenkins-slave-cplusplus
+FROM rodmidde/docker-jenkins-slaves:rodmidde_jenkins-slave-java
 
 USER root
 ADD root /
@@ -39,8 +39,8 @@ ARG TINI_VERSION=v0.16.1
 COPY tini_pub.gpg ${JENKINS_HOME}/tini_pub.gpg
 RUN curl -fsSL https://github.com/krallin/tini/releases/download/${TINI_VERSION}/tini-static-$(dpkg --print-architecture) -o /sbin/tini \
   && curl -fsSL https://github.com/krallin/tini/releases/download/${TINI_VERSION}/tini-static-$(dpkg --print-architecture).asc -o /sbin/tini.asc \
-  && gpg --import ${JENKINS_HOME}/tini_pub.gpg \
-  && gpg --verify /sbin/tini.asc \
+  && gpg --no-tty --import ${JENKINS_HOME}/tini_pub.gpg \
+  && gpg --no-tty --verify /sbin/tini.asc \
   && rm -rf /sbin/tini.asc /root/.gnupg \
   && chmod +x /sbin/tini
 
@@ -82,12 +82,15 @@ COPY jenkins_home/jobs $JENKINS_HOME/jobs
 USER root
 
 # INSTALL SQ
-ENV SONAR_VERSION=6.7 \
+ENV SONAR_VERSION=7.5 \
     SONARRUNNER_HOME=/opt/sonar-scanner-2.8 \
     SONARQUBE_HOME=/opt/sonarqube \
     SONARQUBE_JDBC_USERNAME=sonar \
     SONARQUBE_JDBC_PASSWORD=sonar \
     SONARQUBE_JDBC_URL=
+
+RUN mkdir ~/.gnupg
+RUN echo "disable-ipv6" >> ~/.gnupg/dirmngr.conf
 
 RUN set -x \
 
@@ -95,11 +98,11 @@ RUN set -x \
     #       Key fingerprint = F118 2E81 C792 9289 21DB  CAB4 CFCA 4A29 D264 68DE
     # uid                  sonarsource_deployer (Sonarsource Deployer) <infra@sonarsource.com>
     # sub   2048R/06855C1D 2015-05-25
-    && gpg --keyserver ha.pool.sks-keyservers.net --recv-keys F1182E81C792928921DBCAB4CFCA4A29D26468DE \
+    && gpg --no-tty --keyserver ha.pool.sks-keyservers.net --recv-keys F1182E81C792928921DBCAB4CFCA4A29D26468DE \
 
     && cd /opt \
-    && curl -o sonarqube.zip -fSL https://sonarsource.bintray.com/Distribution/sonarqube/sonarqube-$SONAR_VERSION.zip \
-    && curl -o sonarqube.zip.asc -fSL https://sonarsource.bintray.com/Distribution/sonarqube/sonarqube-$SONAR_VERSION.zip.asc \
+    && curl -o sonarqube.zip -fSL  https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-$SONAR_VERSION.zip \
+    && curl -o sonarqube.zip.asc -fSL https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-$SONAR_VERSION.zip.asc \
     && gpg --batch --verify sonarqube.zip.asc sonarqube.zip \
     && unzip sonarqube.zip \
     && mv sonarqube-$SONAR_VERSION sonarqube \

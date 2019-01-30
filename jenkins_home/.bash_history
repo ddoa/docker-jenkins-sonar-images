@@ -52,3 +52,10 @@ cd docs/generated/html/
 ls
 cat hierarchy.html 
 exit
+jenkins.sh &
+cd /usr/lib/jvm/java-8-oracle/
+pwd
+cd /opt/apache-maven-3.5.2/
+cd /opt/sonarqube/bin/
+./run.sh &
+exit

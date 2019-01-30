@@ -1,6 +1,0 @@
-<map id="Messaging::Session::readMessage" name="Messaging::Session::readMessage">
-<area shape="rect" id="node2" href="$class_messaging_1_1_server_session.html#a5b700fe14c9ec5fc54fde5a8eab22da6" title="Messaging::ServerSession\l::start" alt="" coords="193,5,372,47"/>
-<area shape="rect" id="node5" href="$class_messaging_1_1_client_session.html#a9bfa2e2edfe325487ee04b046fdc4604" title="Messaging::ClientSession\l::handleMessageWritten" alt="" coords="195,71,370,112"/>
-<area shape="rect" id="node3" href="$class_messaging_1_1_server.html#a7af1a9647f151e832c274d3674b6845f" title="Messaging::Server::\lhandleAccept" alt="" coords="420,5,559,47"/>
-<area shape="rect" id="node4" href="$class_messaging_1_1_server.html#a8f618713380149543f0817e2675d81aa" title="Messaging::Server::\lServer" alt="" coords="607,5,745,47"/>
-</map>

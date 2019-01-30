@@ -1,8 +1,0 @@
-<map id="View::WallShape::asString" name="View::WallShape::asString">
-<area shape="rect" id="node2" href="$class_view_1_1_line_shape.html#afade47c97cabd82bed368e0aa00840c1" title="View::LineShape::asDebug\lString" alt="" coords="232,64,412,105"/>
-<area shape="rect" id="node5" href="$class_utils_1_1_shape2_d_utils.html#a47efad1075c8fabb7af1146f17fadaa2" title="Utils::Shape2DUtils\l::asString" alt="" coords="486,5,625,47"/>
-<area shape="rect" id="node6" href="$class_view_1_1_line_shape.html#a01aabcefbac117c9cb0d3dd55c25f982" title="View::LineShape::getBegin" alt="" coords="466,126,645,153"/>
-<area shape="rect" id="node7" href="$class_view_1_1_line_shape.html#a05c46acd617e5bd9d2e32e02f8bda30c" title="View::LineShape::getEnd" alt="" coords="471,178,640,205"/>
-<area shape="rect" id="node3" href="$class_view_1_1_shape.html#a5433d7d6f0c422b59891de069a6b9b1e" title="View::Shape::asDebugString" alt="" coords="460,71,651,98"/>
-<area shape="rect" id="node4" href="$class_view_1_1_shape.html#a282b801714c40623152ab8ec0c2dbdbd" title="View::Shape::asString" alt="" coords="699,71,851,98"/>
-</map>

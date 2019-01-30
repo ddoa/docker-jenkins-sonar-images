@@ -1,6 +1,0 @@
-<map id="View::ViewObject::rebindModelObject" name="View::ViewObject::rebindModelObject">
-<area shape="rect" id="node2" href="$class_base_1_1_observer.html#a0646f881f6716ab7be41ecefa74b5071" title="Base::Observer::stopHandling\lNotificationsFor" alt="" coords="249,5,447,47"/>
-<area shape="rect" id="node4" href="$class_base_1_1_observer.html#a805cc1ddc6526d692af81d76ae29d802" title="Base::Observer::handleNotificationsFor" alt="" coords="223,71,473,98"/>
-<area shape="rect" id="node3" href="$class_base_1_1_notifier.html#abd13a6f822088d759f4464dbe2e6bb88" title="Base::Notifier::removeObserver" alt="" coords="521,13,728,39"/>
-<area shape="rect" id="node5" href="$class_base_1_1_notifier.html#a5c4e89f48f9688c71ffec225717dd79e" title="Base::Notifier::addObserver" alt="" coords="533,71,717,98"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="View::RobotWorldCanvas::handleKey" name="View::RobotWorldCanvas::handleKey">
-<area shape="rect" id="node2" href="$class_application_1_1_logger.html#a0fa1454fb35f3e6980ba46801437f37e" title="Application::Logger::log" alt="" coords="227,64,385,91"/>
-<area shape="rect" id="node3" href="$namespace_application.html#a8385de8a3bbb35a3b7cfee9b16835ee9" title="Application::TheApp" alt="" coords="467,5,606,32"/>
-<area shape="rect" id="node4" href="$class_application_1_1_main_frame_window.html#a2716b3e370a4eef20a7fbeacbcad36a5" title="Application::MainFrameWindow\l::getTraceFunction" alt="" coords="433,57,640,98"/>
-<area shape="rect" id="node5" href="$class_base_1_1_debug_trace_function.html#a54f5a1f127e7624e50bb1a43146f8998" title="Base::DebugTraceFunction\l::trace" alt="" coords="446,122,627,163"/>
-</map>

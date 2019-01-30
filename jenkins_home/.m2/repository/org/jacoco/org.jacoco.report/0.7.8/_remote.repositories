@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jan 30 18:06:36 UTC 2019
+org.jacoco.report-0.7.8.jar>central=
+org.jacoco.report-0.7.8.pom>central=

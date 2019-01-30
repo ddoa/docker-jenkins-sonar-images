@@ -1,8 +1,0 @@
-<map id="View::RectangleShape::setCentre" name="View::RectangleShape::setCentre">
-<area shape="rect" id="node2" href="$class_view_1_1_rectangle_shape.html#acae95cb4b05d77196451520ee7d7ca9c" title="View::RectangleShape\l::handleNotification" alt="" coords="229,5,383,47"/>
-<area shape="rect" id="node3" href="$class_view_1_1_robot_shape.html#a4b12a96d27b17153069e8864258f52df" title="View::RobotShape::setCentre" alt="" coords="208,71,404,98"/>
-<area shape="rect" id="node6" href="$class_view_1_1_way_point_shape.html#a2fa9c9ec63a43d61ed5356060cab8cc7" title="View::WayPointShape\l::setCentre" alt="" coords="229,123,383,164"/>
-<area shape="rect" id="node4" href="$class_view_1_1_robot_shape.html#aa8e3a33d23b11a1f9c4580ff46d3d9f7" title="View::RobotShape::handle\lNotification" alt="" coords="452,5,629,47"/>
-<area shape="rect" id="node5" href="$class_view_1_1_robot_shape.html#ae7522add5dbc51fe3d56463131275ec5" title="View::RobotShape::getActivation\lColour" alt="" coords="677,35,892,76"/>
-<area shape="rect" id="node7" href="$class_view_1_1_way_point_shape.html#a86b90f705f7ba904c5e221245257602d" title="View::WayPointShape\l::getActivationColour" alt="" coords="464,123,617,164"/>
-</map>

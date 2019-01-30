@@ -1,4 +1,0 @@
-<map id="Messaging::ResponseHandler" name="Messaging::ResponseHandler">
-<area shape="rect" id="node2" href="$class_messaging_1_1_message_handler.html" title="{Messaging::MessageHandler\n||}" alt="" coords="9,145,199,223"/>
-<area shape="rect" id="node3" href="$class_model_1_1_robot.html" title="{Model::Robot\n||+ Robot()\l+ Robot()\l+ Robot()\l+ ~Robot()\l+ getName()\l+ setName()\l+ getSize()\l+ setSize()\l+ getPosition()\l+ setPosition()\land 21 more...\l+ handleNotification()\l+ handleRequest()\l+ handleResponse()\l+ asString()\l+ asDebugString()\l* MessageType\l* name\l* size\l* position\l* front\l* speed\l* goal\l* astar\l* path\l* acting\land 8 more...\l* handleNotification()\l* handleRequest()\l* handleResponse()\l* asString()\l* asDebugString()\l}" alt="" coords="31,271,177,803"/>
-</map>

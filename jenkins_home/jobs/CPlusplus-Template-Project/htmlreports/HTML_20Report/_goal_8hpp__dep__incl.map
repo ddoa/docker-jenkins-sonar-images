@@ -1,9 +1,0 @@
-<map id="src/Goal.hpp" name="src/Goal.hpp">
-<area shape="rect" id="node2" href="$_goal_8cpp.html" title="src/Goal.cpp" alt="" coords="5,80,101,107"/>
-<area shape="rect" id="node3" href="$_goal_shape_8hpp.html" title="src/GoalShape.hpp" alt="" coords="176,80,309,107"/>
-<area shape="rect" id="node4" href="$_goal_shape_8cpp.html" title="src/GoalShape.cpp" alt="" coords="79,155,212,181"/>
-<area shape="rect" id="node5" href="$_robot_world_canvas_8cpp.html" title="src/RobotWorldCanvas.cpp" alt="" coords="249,155,431,181"/>
-<area shape="rect" id="node6" href="$_robot_8cpp.html" title="src/Robot.cpp" alt="" coords="384,80,488,107"/>
-<area shape="rect" id="node7" href="$_robot_shape_8cpp.html" title="src/RobotShape.cpp" alt="" coords="512,80,653,107"/>
-<area shape="rect" id="node8" href="$_robot_world_8cpp.html" title="src/RobotWorld.cpp" alt="" coords="677,80,816,107"/>
-</map>

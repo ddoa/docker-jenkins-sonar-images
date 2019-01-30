@@ -1,9 +1,0 @@
-<map id="View::GoalShape::asDebugString" name="View::GoalShape::asDebugString">
-<area shape="rect" id="node2" href="$class_view_1_1_way_point_shape.html#a237e5d964adaf21780dde8c36c82d7b3" title="View::WayPointShape\l::asDebugString" alt="" coords="236,90,389,131"/>
-<area shape="rect" id="node3" href="$class_view_1_1_rectangle_shape.html#ada57b4818aecf78e1efb998a90db7dae" title="View::RectangleShape\l::asDebugString" alt="" coords="437,57,592,98"/>
-<area shape="rect" id="node8" href="$class_view_1_1_way_point_shape.html#ac60ac5629873cb3b3b9346ac48576953" title="View::WayPointShape\l::getWayPoint" alt="" coords="438,122,591,163"/>
-<area shape="rect" id="node4" href="$class_view_1_1_shape.html#a5433d7d6f0c422b59891de069a6b9b1e" title="View::Shape::asDebugString" alt="" coords="640,5,831,32"/>
-<area shape="rect" id="node6" href="$class_utils_1_1_shape2_d_utils.html#a47efad1075c8fabb7af1146f17fadaa2" title="Utils::Shape2DUtils\l::asString" alt="" coords="666,57,805,98"/>
-<area shape="rect" id="node7" href="$class_view_1_1_view_object.html#a3da9d193b02ec4e17c045280db2d944b" title="View::ViewObject::getModel\lObject" alt="" coords="642,122,829,163"/>
-<area shape="rect" id="node5" href="$class_view_1_1_shape.html#a282b801714c40623152ab8ec0c2dbdbd" title="View::Shape::asString" alt="" coords="879,5,1031,32"/>
-</map>

@@ -1,0 +1,21 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-01-30 18:08:37.406 UTC</timestamp>
+  <original>
+    <name>OOSE-Jenkins-Slave-Java-Test/nl.asd.demo:bootstrap</name>
+    <number>3</number>
+  </original>
+  <md5sum>1d55d96ba2fb9ec8d3c039802263554f</md5sum>
+  <fileName>nl.asd.demo:bootstrap:pom.xml</fileName>
+  <usages>
+    <entry>
+      <string>OOSE-Jenkins-Slave-Java-Test/nl.asd.demo:bootstrap</string>
+      <ranges>3-6</ranges>
+    </entry>
+    <entry>
+      <string>OOSE-Jenkins-Slave-Java-Test</string>
+      <ranges>3-6</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

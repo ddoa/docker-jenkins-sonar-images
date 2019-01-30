@@ -1,4 +1,0 @@
-<map id="View::ViewObject::ViewObject" name="View::ViewObject::ViewObject">
-<area shape="rect" id="node2" href="$class_base_1_1_observer.html#a805cc1ddc6526d692af81d76ae29d802" title="Base::Observer::handleNotificationsFor" alt="" coords="255,5,505,32"/>
-<area shape="rect" id="node3" href="$class_base_1_1_notifier.html#a5c4e89f48f9688c71ffec225717dd79e" title="Base::Notifier::addObserver" alt="" coords="553,5,737,32"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="View::RobotWorldCanvas::handleSize" name="View::RobotWorldCanvas::handleSize">
-<area shape="rect" id="node2" href="$class_view_1_1_robot_world_canvas.html#af3ba30c00eaedf7bbb67b731f12d1af7" title="View::RobotWorldCanvas\l::removeGenericShape" alt="" coords="227,112,400,153"/>
-<area shape="rect" id="node3" href="$class_view_1_1_robot_world_canvas.html#ac40c2e62c75618d63e09a0d4f0ca4bb4" title="View::RobotWorldCanvas\l::removeShape" alt="" coords="448,112,621,153"/>
-<area shape="rect" id="node4" href="$class_view_1_1_robot_world_canvas.html#a0d1aeab78b87c7ac297fa877d63d4509" title="View::RobotWorldCanvas\l::handleDeleteRobot" alt="" coords="669,5,843,47"/>
-<area shape="rect" id="node5" href="$class_view_1_1_robot_world_canvas.html#a59a9e54e21bd5bd93bf67b8ea53776c0" title="View::RobotWorldCanvas\l::handleDeleteWayPoint" alt="" coords="669,72,843,113"/>
-<area shape="rect" id="node6" href="$class_view_1_1_robot_world_canvas.html#a373e72f2cda977a78ef7c9dae4fea0e5" title="View::RobotWorldCanvas\l::handleDeleteGoal" alt="" coords="669,140,843,181"/>
-<area shape="rect" id="node7" href="$class_view_1_1_robot_world_canvas.html#a61e2fb050d5df8647ec9d9cf0ea8310b" title="View::RobotWorldCanvas\l::handleDeleteWall" alt="" coords="669,211,843,252"/>
-</map>

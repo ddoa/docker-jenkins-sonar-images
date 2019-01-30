@@ -1,6 +1,0 @@
-<map id="Utils::Shape2DUtils::intersect" name="Utils::Shape2DUtils::intersect">
-<area shape="rect" id="node2" href="$class_model_1_1_robot.html#a64b560d02f2b8b2ce673ae79c48efee0" title="Model::Robot::collision" alt="" coords="192,13,347,39"/>
-<area shape="rect" id="node3" href="$class_model_1_1_robot.html#a25462b6b270e44638522554646dd1180" title="Model::Robot::drive" alt="" coords="395,13,531,39"/>
-<area shape="rect" id="node4" href="$class_model_1_1_robot.html#acedb81c962e36fbe88fdd583f6c8f696" title="Model::Robot::startDriving" alt="" coords="579,13,753,39"/>
-<area shape="rect" id="node5" href="$class_model_1_1_robot.html#a4cf81acadfb2bb3e92cdbbedd5e53659" title="Model::Robot::startActing" alt="" coords="801,13,972,39"/>
-</map>

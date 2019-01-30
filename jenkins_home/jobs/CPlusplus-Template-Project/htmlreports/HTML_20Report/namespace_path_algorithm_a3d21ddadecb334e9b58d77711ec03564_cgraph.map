@@ -1,6 +1,0 @@
-<map id="PathAlgorithm::GetNeighbours" name="PathAlgorithm::GetNeighbours">
-<area shape="rect" id="node2" href="$class_model_1_1_robot_world.html#a3129fe115ffa78851d1d81e62a87bfa0" title="Model::RobotWorld::\lgetRobotWorld" alt="" coords="256,5,399,47"/>
-<area shape="rect" id="node3" href="$class_model_1_1_robot_world.html#a8aef8a1a3db634a5eb1c27598c48391a" title="Model::RobotWorld::\lgetWalls" alt="" coords="256,71,399,112"/>
-<area shape="rect" id="node4" href="$class_utils_1_1_shape2_d_utils.html#a9fea1c3cfa86f8776a2ffca0f1683c58" title="Utils::Shape2DUtils\l::isOnLine" alt="" coords="258,136,397,177"/>
-<area shape="rect" id="node5" href="$struct_path_algorithm_1_1_vertex.html#a19a618c3b6b274dd5768c22a7d46295b" title="PathAlgorithm::Vertex\l::asPoint" alt="" coords="252,201,403,243"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="Messaging::Message::asString" name="Messaging::Message::asString">
-<area shape="rect" id="node2" href="$struct_messaging_1_1_message.html#ad66c64a0450a41e213b368789d2a00c8" title="Messaging::Message\l::getHeader" alt="" coords="217,5,364,47"/>
-<area shape="rect" id="node4" href="$struct_messaging_1_1_message_1_1_message_header.html#a095276c544d4cd9b04952d5829732f6e" title="Messaging::Message\l::MessageHeader::asString" alt="" coords="200,71,381,112"/>
-<area shape="rect" id="node3" href="$struct_messaging_1_1_message_1_1_message_header.html#a0da4d891f5b39f92011244b6d5715f21" title="Messaging::Message\l::MessageHeader::MessageHeader" alt="" coords="429,5,657,47"/>
-</map>

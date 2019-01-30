@@ -1,0 +1,49 @@
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] Building logservice 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[8mha:////4Ice2Aih+m6NcAtsOYcl8HjBpEKTfN3j1u1muyfiA+ljAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ logservice ---
+[INFO] Deleting /var/jenkins_home/jobs/OOSE-Jenkins-Slave-Java-Test/workspace/logservice/target
+[INFO] 
+[8mha:////4Ice2Aih+m6NcAtsOYcl8HjBpEKTfN3j1u1muyfiA+ljAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- jacoco-maven-plugin:0.7.8:prepare-agent (default) @ logservice ---
+[INFO] argLine set to -javaagent:/var/jenkins_home/.m2/repository/org/jacoco/org.jacoco.agent/0.7.8/org.jacoco.agent-0.7.8-runtime.jar=destfile=/var/jenkins_home/jobs/OOSE-Jenkins-Slave-Java-Test/workspace/logservice/target/jacoco.exec
+[INFO] 
+[8mha:////4Ice2Aih+m6NcAtsOYcl8HjBpEKTfN3j1u1muyfiA+ljAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ logservice ---
+[8mha:////4CeFX6ZRPk/Buu3I6aG7dGjgQH5JFo0UdcV+a7DBz2ZeAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] Using platform encoding (ANSI_X3.4-1968 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] Copying 2 resources
+[INFO] 
+[8mha:////4Ice2Aih+m6NcAtsOYcl8HjBpEKTfN3j1u1muyfiA+ljAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ logservice ---
+[INFO] Changes detected - recompiling the module!
+[8mha:////4CeFX6ZRPk/Buu3I6aG7dGjgQH5JFo0UdcV+a7DBz2ZeAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] File encoding has not been set, using platform encoding ANSI_X3.4-1968, i.e. build is platform dependent!
+[INFO] Compiling 2 source files to /var/jenkins_home/jobs/OOSE-Jenkins-Slave-Java-Test/workspace/logservice/target/classes
+[INFO] 
+[8mha:////4Ice2Aih+m6NcAtsOYcl8HjBpEKTfN3j1u1muyfiA+ljAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ logservice ---
+[8mha:////4CeFX6ZRPk/Buu3I6aG7dGjgQH5JFo0UdcV+a7DBz2ZeAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] Using platform encoding (ANSI_X3.4-1968 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory /var/jenkins_home/jobs/OOSE-Jenkins-Slave-Java-Test/workspace/logservice/src/test/resources
+[INFO] 
+[8mha:////4Ice2Aih+m6NcAtsOYcl8HjBpEKTfN3j1u1muyfiA+ljAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ logservice ---
+[INFO] Changes detected - recompiling the module!
+[8mha:////4CeFX6ZRPk/Buu3I6aG7dGjgQH5JFo0UdcV+a7DBz2ZeAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] File encoding has not been set, using platform encoding ANSI_X3.4-1968, i.e. build is platform dependent!
+[INFO] Compiling 5 source files to /var/jenkins_home/jobs/OOSE-Jenkins-Slave-Java-Test/workspace/logservice/target/test-classes
+[8mha:////4CeFX6ZRPk/Buu3I6aG7dGjgQH5JFo0UdcV+a7DBz2ZeAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] /var/jenkins_home/jobs/OOSE-Jenkins-Slave-Java-Test/workspace/logservice/src/test/java/nl/asd/demo/logservice/RestEasyIT.java: /var/jenkins_home/jobs/OOSE-Jenkins-Slave-Java-Test/workspace/logservice/src/test/java/nl/asd/demo/logservice/RestEasyIT.java uses or overrides a deprecated API.
+[8mha:////4CeFX6ZRPk/Buu3I6aG7dGjgQH5JFo0UdcV+a7DBz2ZeAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] /var/jenkins_home/jobs/OOSE-Jenkins-Slave-Java-Test/workspace/logservice/src/test/java/nl/asd/demo/logservice/RestEasyIT.java: Recompile with -Xlint:deprecation for details.
+[INFO] 
+[8mha:////4Ice2Aih+m6NcAtsOYcl8HjBpEKTfN3j1u1muyfiA+ljAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-surefire-plugin:2.20:test (default-test) @ logservice ---
+[INFO] 
+[INFO] -------------------------------------------------------
+[INFO]  T E S T S
+[INFO] -------------------------------------------------------
+[INFO] Running nl.asd.demo.logservice.FileLoggerTest
+Jan 30, 2019 6:24:47 PM nl.asd.demo.logservice.FileLogger log
+SEVERE: message
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.35 s - in nl.asd.demo.logservice.FileLoggerTest
+[INFO] Running nl.asd.demo.logservice.FileLogServiceRemoteFacadeTest
+[INFO] Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.084 s - in nl.asd.demo.logservice.FileLogServiceRemoteFacadeTest
+[INFO] 
+[INFO] Results:
+[INFO] 
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0
+[INFO] 
+[JENKINS] Recording test results
+[8mha:////4CeFX6ZRPk/Buu3I6aG7dGjgQH5JFo0UdcV+a7DBz2ZeAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] Attempt to (de-)serialize anonymous class hudson.maven.reporters.SurefireArchiver$2; see: https://jenkins.io/redirect/serialization-of-anonymous-classes/

@@ -1,9 +1,0 @@
-<map id="src/Robot.hpp" name="src/Robot.hpp">
-<area shape="rect" id="node2" href="$_laser_distance_sensor_8cpp.html" title="src/LaserDistanceSensor.cpp" alt="" coords="5,80,200,107"/>
-<area shape="rect" id="node3" href="$_main_frame_window_8cpp.html" title="src/MainFrameWindow.cpp" alt="" coords="224,80,405,107"/>
-<area shape="rect" id="node4" href="$_robot_8cpp.html" title="src/Robot.cpp" alt="" coords="429,80,533,107"/>
-<area shape="rect" id="node5" href="$_robot_shape_8hpp.html" title="src/RobotShape.hpp" alt="" coords="608,80,749,107"/>
-<area shape="rect" id="node6" href="$_robot_shape_8cpp.html" title="src/RobotShape.cpp" alt="" coords="507,155,648,181"/>
-<area shape="rect" id="node7" href="$_robot_world_canvas_8cpp.html" title="src/RobotWorldCanvas.cpp" alt="" coords="687,155,870,181"/>
-<area shape="rect" id="node8" href="$_robot_world_8cpp.html" title="src/RobotWorld.cpp" alt="" coords="824,80,963,107"/>
-</map>

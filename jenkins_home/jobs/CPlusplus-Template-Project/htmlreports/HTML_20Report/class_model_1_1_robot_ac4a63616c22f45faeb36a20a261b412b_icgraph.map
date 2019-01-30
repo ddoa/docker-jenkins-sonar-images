@@ -1,7 +1,0 @@
-<map id="Model::Robot::getRegion" name="Model::Robot::getRegion">
-<area shape="rect" id="node2" href="$class_model_1_1_robot.html#acbd3a6d498ef172b2a2184717ee3145d" title="Model::Robot::intersects" alt="" coords="220,5,385,32"/>
-<area shape="rect" id="node3" href="$class_model_1_1_robot.html#a2af2ed12ab1ba7fc165c65ab960ce47f" title="Model::Robot::arrived" alt="" coords="433,5,580,32"/>
-<area shape="rect" id="node4" href="$class_model_1_1_robot.html#a25462b6b270e44638522554646dd1180" title="Model::Robot::drive" alt="" coords="628,5,764,32"/>
-<area shape="rect" id="node5" href="$class_model_1_1_robot.html#acedb81c962e36fbe88fdd583f6c8f696" title="Model::Robot::startDriving" alt="" coords="812,5,987,32"/>
-<area shape="rect" id="node6" href="$class_model_1_1_robot.html#a4cf81acadfb2bb3e92cdbbedd5e53659" title="Model::Robot::startActing" alt="" coords="1035,5,1205,32"/>
-</map>

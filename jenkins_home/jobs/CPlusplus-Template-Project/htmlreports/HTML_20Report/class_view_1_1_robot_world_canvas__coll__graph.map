@@ -1,4 +1,0 @@
-<map id="View::RobotWorldCanvas" name="View::RobotWorldCanvas">
-<area shape="rect" id="node3" href="$class_view_1_1_view_object.html" title="{View::ViewObject\n||+ ViewObject()\l+ ViewObject()\l+ ~ViewObject()\l+ getObjectId()\l+ getModelObject()\l+ setModelObject()\l# rebindModelObject()\l* ViewObject()\l* ViewObject()\l* ~ViewObject()\l* getObjectId()\l* getModelObject()\l* setModelObject()\l* rebindModelObject()\l}" alt="" coords="144,321,293,589"/>
-<area shape="rect" id="node4" href="$class_base_1_1_observer.html" title="{Base::Observer\n||+ Observer()\l+ ~Observer()\l+ operator==()\l+ operator\&lt;()\l+ handleNotificationsFor()\l+ stopHandlingNotificationsFor()\l+ handleNotification()\l* Observer()\l* ~Observer()\l* operator==()\l* operator\&lt;()\l* handleNotificationsFor()\l* stopHandlingNotificationsFor()\l* handleNotification()\l}" alt="" coords="113,5,324,273"/>
-</map>

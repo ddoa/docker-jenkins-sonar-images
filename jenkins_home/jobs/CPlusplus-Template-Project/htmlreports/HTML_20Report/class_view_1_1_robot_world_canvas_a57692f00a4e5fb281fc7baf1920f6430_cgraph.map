@@ -1,6 +1,0 @@
-<map id="View::RobotWorldCanvas::handleEditRobot" name="View::RobotWorldCanvas::handleEditRobot">
-<area shape="rect" id="node2" href="$class_view_1_1_robot_world_canvas.html#a4b332b94b059245590fd43da8f021bcb" title="View::RobotWorldCanvas\l::getSelectedShape" alt="" coords="231,5,405,47"/>
-<area shape="rect" id="node3" href="$namespace_widgets.html#abc8e26670d98eeb43017b02596e870dd" title="Widgets::GetTextFromUser" alt="" coords="227,71,409,98"/>
-<area shape="rect" id="node4" href="$namespace_widgets.html#a2c202b9372aa11290c31f883c0ff9458" title="Widgets::STDSTRING" alt="" coords="457,46,613,73"/>
-<area shape="rect" id="node5" href="$namespace_widgets.html#af92dace3ab6f9cbc0d9d288b8b9f7786" title="Widgets::WXSTRING" alt="" coords="460,97,611,123"/>
-</map>

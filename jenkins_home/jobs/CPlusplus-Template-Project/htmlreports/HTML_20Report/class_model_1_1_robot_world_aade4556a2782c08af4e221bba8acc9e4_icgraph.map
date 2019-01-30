@@ -1,6 +1,0 @@
-<map id="Model::RobotWorld::getGoal" name="Model::RobotWorld::getGoal">
-<area shape="rect" id="node2" href="$class_model_1_1_robot.html#acedb81c962e36fbe88fdd583f6c8f696" title="Model::Robot::startDriving" alt="" coords="197,5,372,32"/>
-<area shape="rect" id="node4" href="$class_view_1_1_robot_shape.html#ab07702949d9d374331a17db4759f0762" title="View::RobotShape::handle\lActivated" alt="" coords="196,57,373,98"/>
-<area shape="rect" id="node3" href="$class_model_1_1_robot.html#a4cf81acadfb2bb3e92cdbbedd5e53659" title="Model::Robot::startActing" alt="" coords="443,5,614,32"/>
-<area shape="rect" id="node5" href="$class_view_1_1_robot_shape.html#ae7522add5dbc51fe3d56463131275ec5" title="View::RobotShape::getActivation\lColour" alt="" coords="421,57,636,98"/>
-</map>

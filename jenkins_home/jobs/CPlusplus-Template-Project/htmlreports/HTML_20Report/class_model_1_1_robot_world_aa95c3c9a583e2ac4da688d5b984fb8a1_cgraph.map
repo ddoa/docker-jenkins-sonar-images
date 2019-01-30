@@ -1,7 +1,0 @@
-<map id="Model::RobotWorld::asDebugString" name="Model::RobotWorld::asDebugString">
-<area shape="rect" id="node2" href="$class_model_1_1_robot_world.html#aba56c83813ed568e7d8ba3a2c36208fc" title="Model::RobotWorld::\lasString" alt="" coords="196,27,339,69"/>
-<area shape="rect" id="node3" href="$class_model_1_1_model_object.html#a5e08a08dd0a9dbdb62566e5595ff6ee6" title="Model::ModelObject\l::asString" alt="" coords="387,27,525,69"/>
-<area shape="rect" id="node4" href="$namespace_utils.html#ac11b6f353edfdb84d1a9790379fe84b3" title="Utils::typeinfoFor" alt="" coords="581,5,704,32"/>
-<area shape="rect" id="node6" href="$class_model_1_1_model_object.html#a872607cec315596a384cc052afea0add" title="Model::ModelObject\l::getObjectId" alt="" coords="573,57,712,98"/>
-<area shape="rect" id="node5" href="$namespace_utils.html#aef99b198a8c5ac81903a56f6a375ae69" title="Utils::demangleTypeInfo" alt="" coords="760,5,924,32"/>
-</map>

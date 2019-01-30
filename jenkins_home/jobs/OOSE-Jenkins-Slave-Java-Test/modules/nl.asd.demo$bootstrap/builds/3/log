@@ -1,0 +1,29 @@
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] Building bootstrap 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[8mha:////4Ice2Aih+m6NcAtsOYcl8HjBpEKTfN3j1u1muyfiA+ljAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ bootstrap ---
+[INFO] 
+[8mha:////4Ice2Aih+m6NcAtsOYcl8HjBpEKTfN3j1u1muyfiA+ljAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- jacoco-maven-plugin:0.7.8:prepare-agent (default) @ bootstrap ---
+[INFO] argLine set to -javaagent:/var/jenkins_home/.m2/repository/org/jacoco/org.jacoco.agent/0.7.8/org.jacoco.agent-0.7.8-runtime.jar=destfile=/var/jenkins_home/jobs/OOSE-Jenkins-Slave-Java-Test/workspace/bootstrap/target/jacoco.exec
+[INFO] 
+[8mha:////4Ice2Aih+m6NcAtsOYcl8HjBpEKTfN3j1u1muyfiA+ljAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ bootstrap ---
+[8mha:////4CeFX6ZRPk/Buu3I6aG7dGjgQH5JFo0UdcV+a7DBz2ZeAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] Using platform encoding (ANSI_X3.4-1968 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] Copying 5 resources
+[INFO] 
+[8mha:////4Ice2Aih+m6NcAtsOYcl8HjBpEKTfN3j1u1muyfiA+ljAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ bootstrap ---
+[INFO] Changes detected - recompiling the module!
+[8mha:////4CeFX6ZRPk/Buu3I6aG7dGjgQH5JFo0UdcV+a7DBz2ZeAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] File encoding has not been set, using platform encoding ANSI_X3.4-1968, i.e. build is platform dependent!
+[INFO] Compiling 2 source files to /var/jenkins_home/jobs/OOSE-Jenkins-Slave-Java-Test/workspace/bootstrap/target/classes
+[INFO] 
+[8mha:////4Ice2Aih+m6NcAtsOYcl8HjBpEKTfN3j1u1muyfiA+ljAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ bootstrap ---
+[8mha:////4CeFX6ZRPk/Buu3I6aG7dGjgQH5JFo0UdcV+a7DBz2ZeAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] Using platform encoding (ANSI_X3.4-1968 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory /var/jenkins_home/jobs/OOSE-Jenkins-Slave-Java-Test/workspace/bootstrap/src/test/resources
+[INFO] 
+[8mha:////4Ice2Aih+m6NcAtsOYcl8HjBpEKTfN3j1u1muyfiA+ljAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ bootstrap ---
+[INFO] No sources to compile
+[INFO] 
+[8mha:////4Ice2Aih+m6NcAtsOYcl8HjBpEKTfN3j1u1muyfiA+ljAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-surefire-plugin:2.20:test (default-test) @ bootstrap ---
+[INFO] No tests to run.
+[JENKINS] Recording test results

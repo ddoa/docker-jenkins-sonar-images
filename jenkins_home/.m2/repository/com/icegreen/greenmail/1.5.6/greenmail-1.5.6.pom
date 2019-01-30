@@ -1,0 +1,127 @@
+<?xml version='1.0'?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <name>== GreenMail Core ==</name>
+  <description>GreenMail - Email Test Servers</description>
+  <url>http://www.icegreen.com/greenmail/</url>
+
+  <artifactId>greenmail</artifactId>
+  <packaging>jar</packaging>
+  <version>1.5.6</version>
+
+  <parent>
+    <groupId>com.icegreen</groupId>
+    <artifactId>greenmail-parent</artifactId>
+    <version>1.5.6</version>
+    <relativePath>../pom.xml</relativePath>
+  </parent>
+
+  <dependencies>
+    <!-- Compile scope (=default) -->
+    <dependency>
+      <groupId>com.sun.mail</groupId>
+      <artifactId>javax.mail</artifactId>
+    </dependency>
+    <dependency> <!-- SLF4J Core -->
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-api</artifactId>
+    </dependency>
+
+    <!-- We need junit in compile scope since we want to offer Junit specific functionality (e.g. the GreenMailRule) -->
+    <dependency>
+      <groupId>junit</groupId>
+      <artifactId>junit</artifactId>
+      <scope>compile</scope>
+      <!-- We only need the API in compile scope. Matchers are needed in test scope -->
+      <exclusions>
+        <exclusion>
+          <groupId>org.hamcrest</groupId>
+          <artifactId>hamcrest-core</artifactId>
+        </exclusion>
+      </exclusions>
+    </dependency>
+
+    <!-- Test scope -->
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-log4j12</artifactId>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>commons-io</groupId>
+      <artifactId>commons-io</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.hamcrest</groupId>
+      <artifactId>hamcrest-core</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.hamcrest</groupId>
+      <artifactId>hamcrest-all</artifactId>
+    </dependency>
+  </dependencies>
+
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>de.m3y.maven</groupId>
+        <artifactId>inject-maven-plugin</artifactId>
+        <configuration>
+          <injections>
+            <injection>
+              <value>${project.version}</value>
+              <pointCut>com.icegreen.greenmail.server.BuildInfo.getProjectVersion</pointCut>
+            </injection>
+          </injections>
+        </configuration>
+        <executions>
+          <execution>
+            <phase>process-classes</phase>
+            <goals>
+              <goal>inject</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+      <plugin>
+        <groupId>org.codehaus.mojo</groupId>
+        <artifactId>keytool-maven-plugin</artifactId>
+        <version>1.5</version>
+        <executions>
+          <!-- delete jks -->
+          <execution>
+            <id>delete-jks</id>
+            <phase>initialize</phase>
+            <goals>
+              <goal>clean</goal>
+            </goals>
+          </execution>
+
+          <!-- generate jks -->
+          <execution>
+            <id>generate-jks</id>
+            <goals>
+              <goal>generateKeyPair</goal>
+            </goals>
+            <phase>generate-resources</phase>
+            <configuration>
+              <dname>CN=GreenMail selfsigned Test Certificate, OU=GreenMail, O=Icegreen Technologies, C=US</dname>
+              <keypass>changeit</keypass>
+              <storepass>changeit</storepass>
+              <alias>greenmail</alias>
+              <sigalg>SHA256withRSA</sigalg>
+              <keyalg>RSA</keyalg>
+              <keysize>2048</keysize>
+              <validity>825</validity>
+            </configuration>
+          </execution>
+        </executions>
+        <configuration>
+          <keystore>${project.build.outputDirectory}/greenmail.jks</keystore>
+        </configuration> 
+      </plugin>
+    </plugins>
+  </build>
+
+</project>

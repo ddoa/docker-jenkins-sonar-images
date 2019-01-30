@@ -1,3 +1,0 @@
-<map id="PathAlgorithm::Edge" name="PathAlgorithm::Edge">
-<area shape="rect" id="node2" href="$struct_path_algorithm_1_1_vertex.html" title="{PathAlgorithm::Vertex\n|+ x\l+ y\l+ actualCost\l+ heuristicCost\l|+ Vertex()\l+ Vertex()\l+ asPoint()\l+ lessCost()\l+ lessId()\l+ equalPoint()\l}" alt="" coords="5,5,156,200"/>
-</map>

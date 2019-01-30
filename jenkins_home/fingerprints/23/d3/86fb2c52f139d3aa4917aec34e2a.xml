@@ -1,0 +1,21 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-01-30 18:08:08.602 UTC</timestamp>
+  <original>
+    <name>OOSE-Jenkins-Slave-Java-Test/nl.asd.demo:notificationservice</name>
+    <number>3</number>
+  </original>
+  <md5sum>23d386fb2c52f139d3aa4917aec34e2a</md5sum>
+  <fileName>nl.asd.demo:notificationservice:pom.xml</fileName>
+  <usages>
+    <entry>
+      <string>OOSE-Jenkins-Slave-Java-Test/nl.asd.demo:notificationservice</string>
+      <ranges>3-6</ranges>
+    </entry>
+    <entry>
+      <string>OOSE-Jenkins-Slave-Java-Test</string>
+      <ranges>3-6</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

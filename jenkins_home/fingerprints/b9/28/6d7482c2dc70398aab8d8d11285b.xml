@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-01-30 18:04:58.856 UTC</timestamp>
+  <md5sum>b9286d7482c2dc70398aab8d8d11285b</md5sum>
+  <fileName>Credential id=70b858fb-9bb3-4ce2-af5b-263635daea76 name=rojenkinsusr</fileName>
+  <usages>
+    <entry>
+      <string>OOSE-Jenkins-Slave-Java-Test</string>
+      <ranges>2-6</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

@@ -1,5 +1,0 @@
-<map id="Utils::Shape2DUtils::rotate" name="Utils::Shape2DUtils::rotate">
-<area shape="rect" id="node2" href="$class_view_1_1_line_shape.html#a2fe3effe9eff5bd00fe495e0f1c39606" title="View::LineShape::drawHead" alt="" coords="192,31,379,57"/>
-<area shape="rect" id="node3" href="$class_view_1_1_line_shape.html#a84f369c61a8f0f05d84410c240390493" title="View::LineShape::draw" alt="" coords="427,5,583,32"/>
-<area shape="rect" id="node4" href="$class_view_1_1_line_shape.html#a21a183cd9f63130fe48497743c2c4abb" title="View::LineShape::handleNotification" alt="" coords="631,31,863,57"/>
-</map>

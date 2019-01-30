@@ -1,5 +1,0 @@
-<map id="Model::RobotWorld::~RobotWorld" name="Model::RobotWorld::~RobotWorld">
-<area shape="rect" id="node2" href="$class_base_1_1_notifier.html#a050d0bbcf113f31cc16cd3b5229c7576" title="Base::Notifier::disableNotification" alt="" coords="196,5,413,32"/>
-<area shape="rect" id="node3" href="$class_model_1_1_robot_world.html#aa54ca5337df73d34be09a2c3b9a66c37" title="Model::RobotWorld::\lunpopulate" alt="" coords="233,57,376,98"/>
-<area shape="rect" id="node4" href="$class_base_1_1_notifier.html#a9a3df81524d8db68dd64f9a26575c6b4" title="Base::Notifier::notifyObservers" alt="" coords="461,64,664,91"/>
-</map>

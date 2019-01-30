@@ -1,4 +1,0 @@
-<map id="Messaging::MessageHandler" name="Messaging::MessageHandler">
-<area shape="rect" id="node2" href="$class_messaging_1_1_request_handler.html" title="{Messaging::RequestHandler\n||+ ~RequestHandler()\l+ handleRequest()\l}" alt="" coords="5,5,192,97"/>
-<area shape="rect" id="node3" href="$class_messaging_1_1_response_handler.html" title="{Messaging::ResponseHandler\n||+ ~ResponseHandler()\l+ handleResponse()\l}" alt="" coords="216,5,413,97"/>
-</map>

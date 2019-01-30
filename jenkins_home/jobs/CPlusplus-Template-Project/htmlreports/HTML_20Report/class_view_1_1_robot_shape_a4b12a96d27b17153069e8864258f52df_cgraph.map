@@ -1,5 +1,0 @@
-<map id="View::RobotShape::setCentre" name="View::RobotShape::setCentre">
-<area shape="rect" id="node2" href="$class_view_1_1_robot_shape.html#a0523eb9091b6a646337daffd3a5109ef" title="View::RobotShape::getRobot" alt="" coords="249,13,441,39"/>
-<area shape="rect" id="node4" href="$class_view_1_1_rectangle_shape.html#a905817abb1294f0e83f1ecdb065cc994" title="View::RectangleShape\l::setCentre" alt="" coords="268,64,423,105"/>
-<area shape="rect" id="node3" href="$class_view_1_1_view_object.html#a3da9d193b02ec4e17c045280db2d944b" title="View::ViewObject::getModel\lObject" alt="" coords="489,5,676,47"/>
-</map>

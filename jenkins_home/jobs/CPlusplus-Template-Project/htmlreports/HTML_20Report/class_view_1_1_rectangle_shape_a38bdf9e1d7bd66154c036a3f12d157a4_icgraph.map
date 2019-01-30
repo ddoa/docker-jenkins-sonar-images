@@ -1,7 +1,0 @@
-<map id="View::RectangleShape::getSize" name="View::RectangleShape::getSize">
-<area shape="rect" id="node2" href="$class_view_1_1_rectangle_shape.html#a1d08a855309c7e62114e49495ea75d30" title="View::RectangleShape\l::getActivationColour" alt="" coords="214,5,369,47"/>
-<area shape="rect" id="node3" href="$class_view_1_1_robot_shape.html#a9f12f9abfa2d4ebfa47b06e02c71d23c" title="View::RobotShape::draw" alt="" coords="208,71,375,98"/>
-<area shape="rect" id="node5" href="$class_view_1_1_way_point_shape.html#ac8e4cd575b74030ac9931f64bba16e1f" title="View::WayPointShape\l::draw" alt="" coords="215,124,368,165"/>
-<area shape="rect" id="node4" href="$class_view_1_1_robot_shape.html#ae7522add5dbc51fe3d56463131275ec5" title="View::RobotShape::getActivation\lColour" alt="" coords="423,61,637,103"/>
-<area shape="rect" id="node6" href="$class_view_1_1_way_point_shape.html#a86b90f705f7ba904c5e221245257602d" title="View::WayPointShape\l::getActivationColour" alt="" coords="453,127,607,168"/>
-</map>
